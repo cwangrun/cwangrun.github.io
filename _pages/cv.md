@@ -19,7 +19,7 @@ Work Experience
 ======
 * Oct. 2020 – Oct. 2021
   * Research Internship in IDEA Lab, ShanghaiTech University, China
-  * Supervisor: Prof. Dinggang Shen
+  * Supervisor: Prof. <a href="https://bme.shanghaitech.edu.cn/bme_en/2021/0205/c8252a85165/page.htm" target="_blank"> Dinggang Shen
 
 * Jun. 2019 – Sep. 2019
   * Research Assistant in Department of Computer Science, The University of HongKong, HongKong
