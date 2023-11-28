@@ -10,9 +10,14 @@ author_profile: true
 ## 2023
 
 
+> <b><a href="https://arxiv.org/abs/2308.01184" target="_blank">Generative Noisy-Label Learning by Implicit Dicriminative Approximation with Partial Label Prior</a></b> <br>
+> Fengbei Liu, Yuanhong Chen, <b>Chong Wang</b>, Yuyuan Liu, Gustavo Carneiro.<br>
+> <em>Arxiv</em>, 2023 <be>
+
+
 > <b><a href="https://arxiv.org/abs/2301.13418" target="_blank">BRAIxDet: Learning to Detect Malignant Breast Lesion with Incomplete Annotations</a></b> <br>
-> Yuanhong Chen, Yuyuan Liu, Chong Wang, Michael Elliott, Chun Fung Kwok, Yu Tian, Fengbei Liu, Helen Frazer, Davis J McCarthy, Gustavo Carneiro.<br>
-> <em>Arxiv </em>, 2023 <be>
+> Yuanhong Chen, Yuyuan Liu, <b>Chong Wang</b>, Michael Elliott, Chun Fung Kwok, Yu Tian, Fengbei Liu, Helen Frazer, Davis J McCarthy, Gustavo Carneiro.<br>
+> <em>Arxiv</em>, 2023 <be>
 
 
 > <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-45676-3_2" target="_blank">Unsupervised Anomaly Detection in Medical Images with a Memory-Augmented Multi-level Cross-Attentional Masked Autoencoder</a></b> <br>
