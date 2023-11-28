@@ -47,6 +47,13 @@ author_profile: true
 > Yuanhong Chen, Hu Wang, <b>Chong Wang</b>, Yu Tian, Fengbei Liu, Yuyuan Liu, Michael Elliott, Davis J McCarthy, Helen Frazer, Gustavo Carneiro.<br>
 > <em>International Conference on Medical Image Computing and Computer-Assisted Intervention</em> (<i><b>MICCAI</b></i>), 2022 <br>
 
+> <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-16437-8_9" target="_blank">Contrastive Transformer-Based Multiple Instance Learning for Weakly Supervised Polyp Frame Detection</a></b> <br>
+> Yu Tian, Guansong Pang, Fengbei Liu, Yuyuan Liu, <b>Chong Wang</b>, Yuanhong Chen, Johan Verjans, Gustavo Carneiro.<br>
+> <em>International Conference on Medical Image Computing and Computer-Assisted Intervention</em> (<i><b>MICCAI</b></i>), 2022 <br>
+
+> <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-16437-8_52" target="_blank">NVUM: Non-volatile Unbiased Memory for Robust Medical Image Classification</a></b> <br>
+> Fengbei Liu, Yuanhong Chen, Yu Tian, Yuyuan Liu, <b>Chong Wang</b>, Vasileios Belagiannis, Gustavo Carneiro.<br>
+> <em>International Conference on Medical Image Computing and Computer-Assisted Intervention</em> (<i><b>MICCAI</b></i>), 2022 <br>
 
 
 ## Before 2022
