@@ -65,5 +65,5 @@ author_profile: true
 
 > <b><a href="https://opg.optica.org/boe/fulltext.cfm?uri=boe-8-5-2732&id=363511" target="_blank">Automatic Segmentation of Nine Retinal Layer Boundaries in OCT Images of Non-exudative AMD Patients Using Deep Learning and Graph Search</a></b> <br>
 > Leyuan Fang, David Cunefare, <b>Chong Wang</b>, Robyn H Guymer, Shutao Li, Sina Farsiu. <br>
-> <em>Biomedical Optics Express</em> (<i><b>Biomed. Opt. Express</b></i>), 2017 <br>
+> <em>Biomedical Optics Express</em> (<i><b>Biomed. Opt. Express, ESI Highly Cited Paper</b></i>), 2017 <br>
 
