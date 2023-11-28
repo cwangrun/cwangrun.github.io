@@ -51,9 +51,9 @@ author_profile: true
 
 ## Before 2022
 
-> <b><a href="https://ieeexplore.ieee.org/abstract/document/9966840" target="_blank">BowelNet: Joint Semantic-Geometric Ensemble Learning for Bowel Segmentation From Both Partially and Fully Labeled CT Images</a></b> [<a href="https://github.com/cwangrun/BowelNet" target="_blank">Code</a>] <br>
-> <b>Chong Wang</b>, Zhiming Cui, Junwei Yang, Miaofei Han, Gustavo Carneiro, Dinggang Shen.<br>
-> <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2022 <br>
+> <b><a href="https://link.springer.com/article/10.1007/s11220-020-00299-y" target="_blank">Automatic Classification of Volumetric Optical Coherence Tomography Images via Recurrent Neural Network</a></b> <br>
+> <b>Chong Wang</b>, Yuxuan Jin, Xiangdong Chen, Zhimin Liu.<br>
+> <em>Sensing and Imaging</em> (<i><b>Sens. Imaging</b></i>), 2020 <br>
 
 > <b><a href="https://ieeexplore.ieee.org/document/8637959" target="_blank">Attention to Lesion: Lesion-Aware Convolutional Neural Network for Retinal Optical Coherence Tomography Image Classification</a></b> [<a href="https://github.com/cwangrun/LACNN" target="_blank">Code</a>] <br>
 > Leyuan Fang*, <b>Chong Wang</b>*, Shutao Li, Hossein Rabbani, Xiangdong Chen, Zhimin Liu. (* indicates equal contribution)<br>
