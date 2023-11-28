@@ -30,14 +30,14 @@ author_profile: true
 	
 
 ## 2022
-### Journal Papers
-> <b><a href="https://ieeexplore.ieee.org/document/9541376" target="_blank">Semantic-oriented Labeled-to-unlabeled Distribution Translation for Image Segmentation</a></b> [<a href="https://github.com/CityU-AIM-Group/L2uDT" target="_blank">code</a>][<a href="https://zhuanlan.zhihu.com/p/476326328" target="_blank">知乎</a>] <br>
-> <b>Xiaoqing Guo</b>, Jie Liu, Yixuan Yuan.<br>
-> <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2022 <br>
 
-> <b><a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841522000469" target="_blank">Non-equivalent images and pixels: confidence-aware resampling with meta-learning mixup for polyp segmentation</a></b> <br>
-> <b>Xiaoqing Guo</b>, Zhen Chen, Jun Liu, Yixuan Yuan.<br>
-> <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2022 <br>
+> <b><a href="https://pubs.rsna.org/doi/full/10.1148/ryai.220072" target="_blank">ADMANI: Annotated Digital Mammograms and Associated Non-Image Datasets</a></b> [<a href="https://github.com/CityU-AIM-Group/L2uDT" target="_blank">code</a>][<a href="https://zhuanlan.zhihu.com/p/476326328" target="_blank">知乎</a>] <br>
+> Helen ML Frazer, Jennifer SN Tang, Michael S Elliott, Katrina M Kunicki, Brendan Hill, Ravishankar Karthik, Chun Fung Kwok, Carlos A Peña-Solorzano, Yuanhong Chen, <b>Chong Wang</b>, Osamah Al-Qershi, Samantha K Fox, Shuai Li, Enes Makalic, Tuong L Nguyen, Daniel F Schmidt, Prabhathi Basnayake Ralalage, Jocelyn F Lippey, Peter Brotchie, John L Hopper, Gustavo Carneiro, Davis J McCarthy.<br>
+> <em>Radiology: Artificial Intelligence</em> (<i><b>Radiol Artif Intell</b></i>), 2022 <br>
+
+> <b><a href="https://ieeexplore.ieee.org/abstract/document/9966840" target="_blank">BowelNet: Joint Semantic-Geometric Ensemble Learning for Bowel Segmentation From Both Partially and Fully Labeled CT Images</a></b> <br>
+> Chong Wang, Zhiming Cui, Junwei Yang, Miaofei Han, Gustavo Carneiro, Dinggang Shen.<br>
+> <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2022 <br>
 
 > <b><a href="https://ieeexplore.ieee.org/document/9775681" target="_blank">D2-Net: Dual Disentanglement Network for Brain Tumor Segmentation with Missing Modalities</a></b> [<a href="https://github.com/CityU-AIM-Group/D2Net" target="_blank">code</a>]<br>
 Qiushi Yang, <b>Xiaoqing Guo</b>, Zhen Chen, Peter Y. M. Woo, Yixuan Yuan.<br>
