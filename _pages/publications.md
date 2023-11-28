@@ -59,5 +59,11 @@ author_profile: true
 > Leyuan Fang*, <b>Chong Wang</b>*, Shutao Li, Hossein Rabbani, Xiangdong Chen, Zhimin Liu. (* indicates equal contribution)<br>
 > <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2019 <br>
 
+> <b><a href="https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-22/issue-11/116011/Automatic-classification-of-retinal-three-dimensional-optical-coherence-tomography-images/10.1117/1.JBO.22.11.116011.full?SSO=1" target="_blank">Automatic Classification of Retinal Three-dimensional Optical Coherence Tomography Images Using Principal Component Analysis Network with Composite Kernels</a></b> <br>
+> Leyuan Fang, <b>Chong Wang</b>, Shutao Li, Jun Yan, Xiangdong Chen, Hossein Rabbani. <br>
+> <em>Journal of Biomedical Optics</em> (<i><b>J. Biomed. Opt.</b></i>), 2017 <br>
 
+> <b><a href="https://opg.optica.org/boe/fulltext.cfm?uri=boe-8-5-2732&id=363511" target="_blank">Automatic Segmentation of Nine Retinal Layer Boundaries in OCT Images of Non-exudative AMD Patients Using Deep Learning and Graph Search</a></b> <br>
+> Leyuan Fang, David Cunefare, <b>Chong Wang</b>, Robyn H Guymer, Shutao Li, Sina Farsiu. <br>
+> <em>Biomedical Optics Express</em> (<i><b>Biomed. Opt. Express</b></i>), 2017 <br>
 
