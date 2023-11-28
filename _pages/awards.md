@@ -9,7 +9,6 @@ author_profile: true
 * Fully Funded PhD Scholarship, The University of Adelaide, 2021 - 2024
 * National Scholarship for Postgraduate, Ministry of Education of the People's Republic of China, 2019   
 * First-class Academic Scholarship for Postgraduate, Hunan University, 2017 - 2020 
-* Honorable Mention, Mathematical Contest in Modeling (MCM), 2016
 * Model Student of Academic Capacity, Southern Medical University, 2015
 *	First-class Academic Performance Award, Southern Medical University, 2014    
 
