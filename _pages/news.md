@@ -34,8 +34,8 @@ author_profile: true
 * [Aug 2020] Outstanding Academic Performance Award (OAPA) of City University of Hong Kong <br>
 * [Aug 2020] Research Tuition Scholarship (RTS) of City University of Hong Kong <br>
 * [May 2020] One paper **Semi-supervised WCE Image Classification** accepted by MedIA <br> 
-* [Jan 2020] One paper **Complementary Network** accepted by ISBI 2020 <br> 
-* [Aug 2019] Outstanding Academic Performance Award (OAPA) of City University of Hong Kong <br>
+
+* [Nov 2019] National Scholarship for Postgraduate awarded by Ministry of Education of the People’s Republic of China <br>
 * [Aug 2019] One paper accepted by **IEEE TMI**.
-* [Aug 2019] One paper accepted by **Biomedical Optic Experess** and **highly cited**. 
+* [May 2017] One paper accepted by **Biomedical Optics Express** and **highly cited**. 
 
