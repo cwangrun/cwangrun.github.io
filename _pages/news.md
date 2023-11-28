@@ -5,7 +5,7 @@ author_profile: true
 ---
 * [Aug 2023] One paper accepted by **IEEE TMI**. Thanks all co-authors! <br> 
 * [Jul 2023] Two papers accepted by **ICCV 2023**. Excited to explore Paris!<br>
-* [Feb 2023] Happy to obtain a Top-up Scholarship from BRAIx!<br> 
+* [Feb 2023] Happy to obtain a Top-up Scholarship from BRAIx.<br> 
 
 * [Dec 2022] One paper accepted by **Radiology: Artificial Intelligence**. <br>
 * [Nov 2022] One paper accepted by **IEEE TMI**.
