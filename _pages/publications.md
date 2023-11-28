@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- title: "Selected Publications [(Google Scholar)]([<a href="https://github.com/CityU-AIM-Group/SimT/tree/SimT-TPAMI23" target="_blank">code</a>])" --> 
+<!-- title: "Selected Publications"> 
 
 ## 2023
 ### Journal Papers
