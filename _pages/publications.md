@@ -9,7 +9,7 @@ author_profile: true
 
 ## 2023
 ### Journal Papers
-> <b><a href="https://ieeexplore.ieee.org/abstract/document/10225391" target="_blank">An interpretable and accurate deep-learning diagnosis framework modelled with fully and semi-supervised reciprocal learning</a></b> [<a href="https://github.com/CityU-AIM-Group/SimT/tree/SimT-TPAMI23" target="_blank">code</a>] <br>
+> <b><a href="https://ieeexplore.ieee.org/abstract/document/10225391" target="_blank">An Interpretable and Accurate Deep-learning Diagnosis Framework Modelled with Fully and Semi-supervised Reciprocal Learning</a></b> <br>
 > <b>Chong Wang</b>, Yuanhong Chen, Fengbei Liu, Michael Elliott, Chun Fung Kwok, Carlos Peña-Solorzano, Helen Frazer, Davis James McCarthy, Gustavo Carneiro.<br>
 > <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2023 <be>
 
