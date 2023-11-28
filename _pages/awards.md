@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 * <a href="https://conferences.miccai.org/2022/en/MICCAI-2022-STUDENT-TRAVEL-AWARDS.html" target="_blank"> MICCAI 2022 Student Travel Awards </a> (*232 out of more than 7000 reviewers*), 2023
-* <a href="https://xueshu.baidu.com/usercenter/index/aischolar2023" target="_blank">National Scholarship for Postgraduate,</a>, Ministry of Education of the People's Republic of China, 2019
+* National Scholarship for Postgraduate, Ministry of Education of the People's Republic of China, 2019
 * Chow Yei Ching School of Graduate Studies Outstanding Doctoral Research Award (*only 5 awardees in the history of CityU before 2022*), City University of Hong Kong, 2022 
 * Outstanding Research Thesis Award (*8 awardees at CityU in 2022*), City University of Hong Kong, 2022 
 * <a href="https://www.msra.cn/zh-cn/connections/academic-programs/fellows" target="_blank">Microsoft Research Asia Fellowship Nomination Award</a> (*28 students in Asia-Pacific Area*), Microsoft, 2021 
