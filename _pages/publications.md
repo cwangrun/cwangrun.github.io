@@ -13,12 +13,12 @@ author_profile: true
 > <b>Chong Wang</b>, Yuanhong Chen, Fengbei Liu, Michael Elliott, Chun Fung Kwok, Carlos Peña-Solorzano, Helen Frazer, Davis James McCarthy, Gustavo Carneiro.<br>
 > <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2023 <be>
 
-> <b><a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841523002190" target="_blank">Dynamic Feature Splicing for Few-Shot Rare Disease Diagnosis</a></b> <br>
-> Yuanyuan Chen\*, <b>Xiaoqing Guo</b>\*, Yongsheng Pan, Yong Xia, Yixuan Yuan. (* indicates equal contribution)<br>
-> <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2023 <br>
+> <b><a href="https://openaccess.thecvf.com/content/ICCV2023/html/Chen_BoMD_Bag_of_Multi-label_Descriptors_for_Noisy_Chest_X-ray_Classification_ICCV_2023_paper.html" target="_blank">BOMD: Bag of multi-label descriptors for noisy chest x-ray classification</a></b> <br>
+> Yuanhong Chen, Fengbei Liu, Hu Wang, <b>Chong Wang</b>, Yuyuan Liu, Yu Tian, Gustavo Carneiro. <br>
+> <em>Proceedings of the IEEE/CVF International Conference on Computer Vision</em> (<i><b>ICCV</b></i>), 2023 <br>
 	
 
-### Conference Papers	
+
 > <b><a href="https://openaccess.thecvf.com/content/ICCV2023/html/Li_Novel_Scenes__Classes_Towards_Adaptive_Open-set_Object_Detection_ICCV_2023_paper.html" target="_blank">Novel Scenes & Classes: Towards Adaptive Open-set Object Detection</a></b> [<a href="https://github.com/CityU-AIM-Group/SOMA" target="_blank">code</a>] **(Oral)**<br>
 > Wuyang Li, <b>Xiaoqing Guo</b>, Yixuan Yuan. <br>
 > <em>IEEE International Conference on Computer Vision</em> (<i><b>ICCV 2023</b></i>), Paris, France. <br>
