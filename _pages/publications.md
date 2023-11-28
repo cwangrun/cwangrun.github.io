@@ -56,7 +56,7 @@ author_profile: true
 > <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2022 <br>
 
 > <b><a href="https://ieeexplore.ieee.org/document/8637959" target="_blank">Attention to Lesion: Lesion-Aware Convolutional Neural Network for Retinal Optical Coherence Tomography Image Classification</a></b> [<a href="https://github.com/cwangrun/LACNN" target="_blank">Code</a>] <br>
-> Leyuan Fang*, <b>Chong Wang</b>*, Shutao Li, Hossein Rabbani, Xiangdong Chen, Zhimin Liu (* indicates equal contribution).<br>
+> Leyuan Fang*, <b>Chong Wang</b>*, Shutao Li, Hossein Rabbani, Xiangdong Chen, Zhimin Liu. (* indicates equal contribution)<br>
 > <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2019 <br>
 
 
