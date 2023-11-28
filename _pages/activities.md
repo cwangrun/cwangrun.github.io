@@ -17,7 +17,7 @@ author_profile: true
 
 
 ## *Conference Presentations*
-  * ICCV 2023, Paris, France <a href="CVPR2022ppt.pdf" target="_blank">[Slide]</a> 
+  * ICCV 2023, Paris, France <a href="iccv2023ppt.pdf" target="_blank">[Slide]</a> 
   * MICCAI 2022, Singapore <a href="MICCAI2022ppt.pdf" target="_blank">[Slide]</a>
 
 
