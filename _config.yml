@@ -85,7 +85,7 @@ author:
   bio              : "Ph.D student at AIML, The University of Adelaide"
   location         : "Adelaide"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.au/citations?user=IWcTej4AAAAJ&hl=en"
   email            : "chong.wang@adelaide.edu.au"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/chongwangrun/"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-0022-0217"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
