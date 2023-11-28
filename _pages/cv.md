@@ -23,4 +23,4 @@ Work Experience
 
 * Jun. 2019 – Sep. 2019
   * Research Assistant in Department of Computer Science, The University of HongKong, HongKong
-  * Supervisor: Prof. Wenping Wang
+  * Supervisor: Prof. <a href="https://www.cs.hku.hk/people/academic-staff/wenping" target="_blank"> Wenping Wang
