@@ -15,17 +15,15 @@ Education
 * M.E. in Control Science and Engineering, Hunan University, China, 2020
 * B.E. in Biomedical Engineering, Southern Medical University, China, 2017 
 
-Work experience
+Research Intern
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Oct. 2020 – Oct. 2021
+  * IDEA Lab, ShanghaiTech University, China
+  * Supervisor: Prof. Dinggang Shen
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jun. 2019 – Sep. 2019
+  * Department of Computer Science, The University of HongKong
+  * Supervisor: Prof. Wenping Wang
   
 Skills
 ======
