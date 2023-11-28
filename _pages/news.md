@@ -4,7 +4,7 @@ title: "News"
 author_profile: true
 ---
 * [Aug 2023] One paper accepted by **IEEE TMI**. Thanks all co-authors! <br> 
-* [Jul 2023] Two paper accepted by **ICCV 2023**. <br> 
+* [Jul 2023] Two paper accepted by **ICCV 2023**. Happy to be in Paris!<br> 
 
 * [Dec 2022] One paper accepted by **Radiology: Artificial Intelligence**. <br>
 * [Nov 2022] One paper accepted by **IEEE TMI**.
