@@ -8,7 +8,8 @@ author_profile: true
 * Outstanding Research Master Thesis Award, Hunan Province, 2022 
 * Fully Funded PhD Scholarship, The University of Adelaide, 2021 - 2024
 * National Scholarship for Postgraduate, Ministry of Education of the People's Republic of China, 2019   
-* First-class Academic Scholarship for Postgraduate, Hunan University, 2017 - 2020 
+* First-class Academic Scholarship for Postgraduate, Hunan University, 2017 - 2020
+* Second Prize in GuangDong Contest District in China Undergraduate Mathematical Contest in Modeling, 2016
 * Model Student of Academic Capacity, Southern Medical University, 2015
 *	First-class Academic Performance Award, Southern Medical University, 2014    
 
