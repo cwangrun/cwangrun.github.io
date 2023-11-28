@@ -16,5 +16,5 @@ author_profile: true
 * [May 2020] Obtain my Master degree and an **Outstanding Research Master Thesis Award**, Hunan Province!
 * [Nov 2019] Receive a **National Scholarship for Postgraduate** awarded by Ministry of Education of the People’s Republic of China <br>
 * [Aug 2019] One paper accepted by **IEEE TMI**.
-* [May 2017] One paper accepted by **Biomedical Optics Express** and **highly cited**. 
+* [May 2017] One paper accepted by **Biomedical Optics Express** and become **ESI Highly-Cited**. 
 
