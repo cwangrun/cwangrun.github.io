@@ -9,6 +9,12 @@ author_profile: true
 
 ## 2023
 
+
+> <b><a href="https://arxiv.org/abs/2301.13418" target="_blank">BRAIxDet: Learning to Detect Malignant Breast Lesion with Incomplete Annotations</a></b> <br>
+> Yuanhong Chen, Yuyuan Liu, Chong Wang, Michael Elliott, Chun Fung Kwok, Yu Tian, Fengbei Liu, Helen Frazer, Davis J McCarthy, Gustavo Carneiro.<br>
+> <em>Arxiv </em>, 2023 <be>
+
+
 > <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-45676-3_2" target="_blank">Unsupervised Anomaly Detection in Medical Images with a Memory-Augmented Multi-level Cross-Attentional Masked Autoencoder</a></b> <br>
 > Yu Tian, Guansong Pang, Yuyuan Liu, <b>Chong Wang</b>, Yuanhong Chen, Fengbei Liu, Rajvinder Singh, Johan W Verjans, Mengyu Wang, Gustavo Carneiro.<br>
 > <em>International Workshop on Machine Learning in Medical Imaging</em> (<i><b>MLMI</b></i>), 2023 <be>
