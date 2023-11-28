@@ -36,20 +36,19 @@ author_profile: true
 > <em>Radiology: Artificial Intelligence</em> (<i><b>Radiol Artif Intell</b></i>), 2022 <br>
 
 > <b><a href="https://ieeexplore.ieee.org/abstract/document/9966840" target="_blank">BowelNet: Joint Semantic-Geometric Ensemble Learning for Bowel Segmentation From Both Partially and Fully Labeled CT Images</a></b> <br>
-> Chong Wang, Zhiming Cui, Junwei Yang, Miaofei Han, Gustavo Carneiro, Dinggang Shen.<br>
+> <b>Chong Wang</b>, Zhiming Cui, Junwei Yang, Miaofei Han, Gustavo Carneiro, Dinggang Shen.<br>
 > <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2022 <br>
 
-> <b><a href="https://ieeexplore.ieee.org/document/9775681" target="_blank">D2-Net: Dual Disentanglement Network for Brain Tumor Segmentation with Missing Modalities</a></b> [<a href="https://github.com/CityU-AIM-Group/D2Net" target="_blank">code</a>]<br>
-Qiushi Yang, <b>Xiaoqing Guo</b>, Zhen Chen, Peter Y. M. Woo, Yixuan Yuan.<br>
-> <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2022 <br>
+> <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-16437-8_2" target="_blank">Knowledge Distillation to Ensemble Global and Interpretable Prototype-Based Mammogram Classification Models</a></b> <br>
+> <b>Chong Wang</b>, Yuanhong Chen, Yuyuan Liu, Yu Tian, Fengbei Liu, Davis J McCarthy, Michael Elliott, Helen Frazer, Gustavo Carneiro.<br>
+> <em>International Conference on Medical Image Computing and Computer-Assisted Intervention</em> (<i><b>MICCAI Student Travel Award</b></i>), 2022 <br>
 
-> <b><a href="https://ieeexplore.ieee.org/document/9583929" target="_blank">Graph-based Surgical Instrument Adaptive Segmentation via Domain-Common Knowledge</a></b> [<a href="https://github.com/CityU-AIM-Group/Prototypical-Graph-DA" target="_blank">code</a>] <br>
-> Jie Liu, <b>Xiaoqing Guo</b>, Yixuan Yuan.<br>
-> <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2022 <br>
+> <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-16437-8_1" target="_blank">Multi-view Local Co-occurrence and Global Consistency Learning Improve Mammogram Classification Generalisation</a></b> <br>
+> Yuanhong Chen, Hu Wang, <b>Chong Wang</b>, Yu Tian, Fengbei Liu, Yuyuan Liu, Michael Elliott, Davis J McCarthy, Helen Frazer, Gustavo Carneiro.<br>
+> <em>International Conference on Medical Image Computing and Computer-Assisted Intervention</em> (<i><b>MICCAI Student Travel Award</b></i>), 2022 <br>
 
-> <b><a href="https://www.sciencedirect.com/science/article/pii/S1361841522001049" target="_blank">Source Free Domain Adaptation for Medical Image Segmentation with Fourier Style Mining</a></b> [<a href="https://github.com/CityU-AIM-Group/SFDA-FSM" target="_blank">code</a>]<br>
-> Chen Yang, <b>Xiaoqing Guo</b>, Zhen Chen, Yixuan Yuan.<br>
-> <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2022 <br>
+
+
 
 ### Conference Papers	
 > <b><a href="https://openaccess.thecvf.com/content/CVPR2022/html/Guo_SimT_Handling_Open-Set_Noise_for_Domain_Adaptive_Semantic_Segmentation_CVPR_2022_paper.html" target="_blank">SimT: Handling Open-set Noise for Domain Adaptive Semantic Segmentation</a></b> [<a href="https://github.com/CityU-AIM-Group/SimT" target="_blank">code</a>][<a href="https://zhuanlan.zhihu.com/p/475830652" target="_blank">知乎</a>] <br>
