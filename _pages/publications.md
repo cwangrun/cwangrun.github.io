@@ -8,8 +8,6 @@ author_profile: true
 <!-- title: "Selected Publications" --> 
 
 ## 2023
-### Journal Papers
-
 
 > <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-45676-3_2" target="_blank">Unsupervised Anomaly Detection in Medical Images with a Memory-Augmented Multi-level Cross-Attentional Masked Autoencoder</a></b> <br>
 > Yu Tian, Guansong Pang, Yuyuan Liu, <b>Chong Wang</b>, Yuanhong Chen, Fengbei Liu, Rajvinder Singh, Johan W Verjans, Mengyu Wang, Gustavo Carneiro.<br>
@@ -30,11 +28,6 @@ author_profile: true
 > Yuanhong Chen, Fengbei Liu, Hu Wang, <b>Chong Wang</b>, Yuyuan Liu, Yu Tian, Gustavo Carneiro. <br>
 > <em>Proceedings of the IEEE/CVF International Conference on Computer Vision</em> (<i><b>ICCV</b></i>), 2023 <br>
 	
-
-
-> <b><a href="https://openaccess.thecvf.com/content/ICCV2023/html/Li_Novel_Scenes__Classes_Towards_Adaptive_Open-set_Object_Detection_ICCV_2023_paper.html" target="_blank">Novel Scenes & Classes: Towards Adaptive Open-set Object Detection</a></b> [<a href="https://github.com/CityU-AIM-Group/SOMA" target="_blank">code</a>] **(Oral)**<br>
-> Wuyang Li, <b>Xiaoqing Guo</b>, Yixuan Yuan. <br>
-> <em>IEEE International Conference on Computer Vision</em> (<i><b>ICCV 2023</b></i>), Paris, France. <br>
 
 ## 2022
 ### Journal Papers
