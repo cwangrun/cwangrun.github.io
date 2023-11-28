@@ -4,11 +4,11 @@ title: "News"
 author_profile: true
 ---
 * [Aug 2023] One paper accepted by **IEEE TMI**. Thanks all co-authors! <br> 
-* [Jul 2023] Two paper accepted by **ICCV 2023**. Happy to be in Paris!<br> 
+* [Jul 2023] Two paper accepted by **ICCV 2023**. Excited to explore Paris!<br> 
 
 * [Dec 2022] One paper accepted by **Radiology: Artificial Intelligence**. <br>
 * [Nov 2022] One paper accepted by **IEEE TMI**.
-* [Aug 2022] MICCAI 2022 **Student Travel Awards**. Enjoy in Singapore. <br>
+* [Aug 2022] Receive MICCAI 2022 **Student Travel Awards**. Thrilled to be in Singapore. <br>
 * [Jun 2022] Four paper accepted by **MICCAI 2022**. <br>
   
 * [Jun 2022] One paper **JCAS** accepted by MICCAI 2022 <br> 
