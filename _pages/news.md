@@ -29,9 +29,9 @@ author_profile: true
 * [Apr 2021] One paper accepted by JBHI <br> 
 * [Mar 2021] One paper accepted by MedIA <br> 
 * [Mar 2021] One paper **MetaCorrection** accepted by CVPR 2021 <br> 
-* [Jan 2021] One paper accepted by IEEE TMI <br> 
-* [Dec 2020] One paper **ThresholdNet** accepted by IEEE TMI <br> 
-* [Aug 2020] Outstanding Academic Performance Award (OAPA) of City University of Hong Kong <br>
+* [Jan 2021] One paper accepted by IEEE TMI <br>
+  
+* [May 2020] Obtain a Master degree and an Outstanding Research Master Thesis Award, Hunan Province!
 * [Aug 2020] Research Tuition Scholarship (RTS) of City University of Hong Kong <br>
 * [May 2020] One paper **Semi-supervised WCE Image Classification** accepted by MedIA <br> 
 
