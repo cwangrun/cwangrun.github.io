@@ -9,9 +9,9 @@ author_profile: true
 
 ## 2023
 ### Journal Papers
-> <b><a href="https://ieeexplore.ieee.org/document/10048580" target="_blank">Handling Open-set Noise and Novel Target Recognition in Domain Adaptive Semantic Segmentation</a></b> [<a href="https://github.com/CityU-AIM-Group/SimT/tree/SimT-TPAMI23" target="_blank">code</a>] <br>
-> <b>Xiaoqing Guo</b>, Jie Liu, Tongliang Liu, Yixuan Yuan.<br>
-> <em>IEEE Transactions on Pattern Analysis and Machine Intelligence</em> (<i><b>IEEE TPAMI</b></i>), 2023 <be>
+> <b><a href="https://ieeexplore.ieee.org/abstract/document/10225391" target="_blank">An interpretable and accurate deep-learning diagnosis framework modelled with fully and semi-supervised reciprocal learning</a></b> [<a href="https://github.com/CityU-AIM-Group/SimT/tree/SimT-TPAMI23" target="_blank">code</a>] <br>
+> <b>Chong Wang</b>, Yuanhong Chen, Fengbei Liu, Michael Elliott, Chun Fung Kwok, Carlos Peña-Solorzano, Helen Frazer, Davis James McCarthy, Gustavo Carneiro.<br>
+> <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2023 <be>
 
 > <b><a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841523002190" target="_blank">Dynamic Feature Splicing for Few-Shot Rare Disease Diagnosis</a></b> <br>
 > Yuanyuan Chen\*, <b>Xiaoqing Guo</b>\*, Yongsheng Pan, Yong Xia, Yixuan Yuan. (* indicates equal contribution)<br>
