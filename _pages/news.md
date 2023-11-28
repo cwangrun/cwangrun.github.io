@@ -3,12 +3,11 @@ permalink: /news/
 title: "News"
 author_profile: true
 ---
-* [Sep 2023] One paper accepted by IEEE TMI. Thanks all co-authors! <br> 
+* [Aug 2023] One paper accepted by **IEEE TMI**. Thanks all co-authors! <br> 
 * [Jul 2023] Two paper accepted by ICCV 2023. <br> 
 * [May 2023] CVPR 2023 Outstanding Reviewer Award <br> 
 * [Mar 2023] Selected as one of the Global Top 80 Chinese Young Female Scholars in Artificial Intelligence, 2023 <br>
-* [Feb 2023] One paper **Handling Open-set Noise and Novel Target Recognition in Domain Adaptive Semantic Segmentation** accepted by IEEE TPAMI <br>
-* [Jan 2023] I came to University of Oxford to work as a postdoctoral research fellow <br>
+* [Jul 2023] I came to University of Oxford to work as a postdoctoral research fellow <br>
 * [Dec 2022] Chow Yei Ching School of Graduate Studies Outstanding Doctoral Research Award 2022 of City University of Hong Kong <br>
 * [Oct 2022] Outstanding Research Thesis Award 2022 of City University of Hong Kong <br>
 * [Aug 2022] I passed the oral defence and became a Dr.! 🌟 <br> 
