@@ -4,7 +4,7 @@ title: "Awards"
 author_profile: true
 ---
 
-* <a href="https://cvpr2023.thecvf.com/Conferences/2023/OutstandingReviewers" target="_blank">CVPR Outstanding Reviewer Award</a> (*232 out of more than 7000 reviewers*), 2023
+* <a href="https://conferences.miccai.org/2022/en/MICCAI-2022-STUDENT-TRAVEL-AWARDS.html" target="_blank"> MICCAI 2022 Student Travel Awards </a> (*232 out of more than 7000 reviewers*), 2023
 * <a href="https://xueshu.baidu.com/usercenter/index/aischolar2023" target="_blank">Global Top 80 Chinese Young Female Scholars in Artificial Intelligence</a>, 2023
 * Chow Yei Ching School of Graduate Studies Outstanding Doctoral Research Award (*only 5 awardees in the history of CityU before 2022*), City University of Hong Kong, 2022 
 * Outstanding Research Thesis Award (*8 awardees at CityU in 2022*), City University of Hong Kong, 2022 
