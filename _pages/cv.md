@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, The University of Adelaide,Australia, 2024
+* B.S. in Mathematical & Computer Sciences, The University of Adelaide,Australia, 2024
 * M.E. in Control Science and Engineering, Hunan University, China, 2020
 * B.E. in Biomedical Engineering, Southern Medical University, China, 2017 
 
