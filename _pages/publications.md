@@ -41,7 +41,7 @@ author_profile: true
 
 > <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-16437-8_2" target="_blank">Knowledge Distillation to Ensemble Global and Interpretable Prototype-Based Mammogram Classification Models</a></b> <br>
 > <b>Chong Wang</b>, Yuanhong Chen, Yuyuan Liu, Yu Tian, Fengbei Liu, Davis J McCarthy, Michael Elliott, Helen Frazer, Gustavo Carneiro.<br>
-> <em>International Conference on Medical Image Computing and Computer-Assisted Intervention</em> (<i><b>MICCAI Student Travel Award</b></i>), 2022 <br>
+> <em>International Conference on Medical Image Computing and Computer-Assisted Intervention</em> (<i><b>MICCAI, Student Travel Award</b></i>), 2022 <br>
 
 > <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-16437-8_1" target="_blank">Multi-view Local Co-occurrence and Global Consistency Learning Improve Mammogram Classification Generalisation</a></b> <br>
 > Yuanhong Chen, Hu Wang, <b>Chong Wang</b>, Yu Tian, Fengbei Liu, Yuyuan Liu, Michael Elliott, Davis J McCarthy, Helen Frazer, Gustavo Carneiro.<br>
