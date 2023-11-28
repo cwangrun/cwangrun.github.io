@@ -88,7 +88,8 @@ author:
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.au/citations?user=IWcTej4AAAAJ&hl=en"
   email            : "chong.wang@adelaide.edu.au"
-  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  github           : "cwangrun"
+  researchgate     :  "https://www.researchgate.net/profile/Chong-Wang-25"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +97,6 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "cwangrun"
   google_plus      :
   keybase          :
   instagram        :
