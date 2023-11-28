@@ -13,7 +13,7 @@ author_profile: true
 * [Jun 2022] Four papers accepted by **MICCAI 2022**. <br>
 * [Mar 2021] Start my PhD study and move to Adelaide.
   
-* [May 2020] Obtain my Master degree and recognised as an **Outstanding Research Master Thesis Award**, Hunan Province!
+* [May 2020] Obtain my Master degree and recognised as an **Outstanding Research Master Thesis Award, Hunan Province**!
 * [Nov 2019] Receive a **National Scholarship for Postgraduate** awarded by Ministry of Education of the People’s Republic of China <br>
 * [Aug 2019] One paper accepted by **IEEE TMI**. Congrats!
 * [Oct 2017] One paper accepted by **Journal of Biomedical Optics**. 
