@@ -8,7 +8,7 @@ author_profile: true
 
 * [Dec 2022] One paper accepted by **Radiology: Artificial Intelligence**. <br>
 * [Nov 2022] One paper accepted by **IEEE TMI**.
-* [Aug 2022] MICCAI 2022 Student Travel Awards. <br>
+* [Aug 2022] MICCAI 2022 **Student Travel Awards**, enjoy in Singapore. <br>
 * [Jun 2022] Four paper accepted by **MICCAI 2022**. <br>
   
 * [Jun 2022] One paper **JCAS** accepted by MICCAI 2022 <br> 
