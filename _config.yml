@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Chong Wang"
-  avatar           : "Chong.png"
+  avatar           : "profile.png"
   bio              : "Ph.D student at AIML, The University of Adelaide"
   location         : "Adelaide"
   employer         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  # twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
