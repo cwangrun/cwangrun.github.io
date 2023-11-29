@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## *Journal Reviews*
-  * IEEE IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
+  * IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
   * IEEE Transactions on Medical Imaging (IEEE TMI)
   * Computers in Biology and Medicine
   * Neurocomputing
