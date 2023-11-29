@@ -15,7 +15,7 @@ redirect_from:
 * I visited United Imaging Intelligence (UII) and ShanghaiTech University during 2020-2021, advised by Prof. <a href="https://bme.shanghaitech.edu.cn/bme_en/2021/0205/c8252a85165/page.htm" target="_blank">Dinggang Shen</a>. 
 
 
-I am passionate about delving into the interdisciplinary field of medical image analysis, computer vision, and machine learning, dedicating to advancing artificial intelligence (AI) techniques in healthcare, with a particular focus on creating trustworthy solutions for medical diagnosis and interventions.
+I am passionate about delving into the interdisciplinary realm of medical image analysis, computer vision, and machine learning, dedicating to advancing artificial intelligence (AI) techniques in healthcare, with a particular focus on creating trustworthy solutions for medical diagnosis and interventions.
 My work has been published in prestigious journals and conferences, including IEEE TMI, MICCAI, and ICCV, etc.
 
 I am on the academic job market for faculty positions in AI for healthcare, targeting assistant professorship positions in EE/BME/CS. Please don't hesitate to reach out to me if you have any relevant job opportunities.
