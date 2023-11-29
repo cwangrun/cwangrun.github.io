@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-<!-- * I am currently a Postdoc Fellow in <a href="http://www.ee.cityu.edu.hk/~yxyuan/index.htm" target="_blank">Artificial Intelligence in Medicine (AIM) group</a> at **City University of Hong Kong (CityU)**, advised by Prof. <a href="http://www.ee.cuhk.edu.hk/~yxyuan/people/people.htm" target="_blank">Yixuan Yuan</a>. -->
-<!-- * I am currently a Postdoctoral Researcher in the <a href="https://eng.ox.ac.uk/biomedical-image-analysis/noble-group/" target="_blank">Biomedical Image Analysis (BioMedIA) group</a> and the <a href="https://www.robots.ox.ac.uk/~vgg/" target="_blank">Visual Geometry Group (VGG)</a> at <a href="https://www.ox.ac.uk/" target="_blank">University of Oxford</a>, working on the project <a href="https://www.robots.ox.ac.uk/~vgg/projects/visualai/" target="_blank">VisualAI</a>. -->
-* I am currently a Postdoctoral Researcher in Department of Engineering Science at **University of Oxford**, advised by Prof. <a href="https://ibme.ox.ac.uk/people/alison-noble/" target="_blank">Alison Noble</a>, working in the project <a href="https://www.robots.ox.ac.uk/~vgg/projects/visualai/" target="_blank">VisualAI</a>.
-* I obtained Ph.D. degree in Department of Electrical Engineering at **City University of Hong Kong (CityU)** in 2022, advised by Prof. <a href="http://www.ee.cuhk.edu.hk/~yxyuan/people/people.htm" target="_blank">Yixuan Yuan</a>.
-* I received B. Eng. degree in Department of Biomedical Engineering at **Beihang University (BUAA)** in 2018. 
+
+* I am currently a PhD student in the Australian Institute for Machine Learning (AIML) at **The University of Adelaide**, advised by Prof. <a href="https://www.surrey.ac.uk/people/gustavo-carneiro" target="_blank">Gustavo Carneiro</a>, working in the project <a href="https://www.acmd.org.au/braix" target="_blank">BRAIx</a>.
+* I obtained M. Eng. degree in College of Electrical and Information Engineering at Hunan University at **Hunan University** in 2020, supervised by Prof. <a href="https://www.leyuanfang.com/" target="_blank">Leyuan Fang</a>.
+* I received B. Eng. degree in School of Biomedical Engineering at **Southern Medical University** in 2017. 
 * I was a research assistant in Department of Electrical Engineering at **Tsinghua University** during 2017-2018.<!-- , advised by Prof. Yongfeng Huang.  -->
 
 I am on the academic job market for faculty positions in AI for healthcare, targeting assistant professorship positions in EE/BME/CS. Please don't hesitate to reach out to me if you have any relevant job opportunities.
