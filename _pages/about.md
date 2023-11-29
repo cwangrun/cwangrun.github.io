@@ -11,8 +11,8 @@ redirect_from:
 
 * I am currently a Ph.D student in the Australian Institute for Machine Learning (AIML) at **The University of Adelaide**, supervised by Prof. <a href="https://www.surrey.ac.uk/people/gustavo-carneiro" target="_blank">Gustavo Carneiro</a>, working on the <a href="https://www.acmd.org.au/braix" target="_blank">Breast Cancer AI (BRAIx)</a> Project.
 * I obtained M. Eng. degree in College of Electrical and Information Engineering at Hunan University at **Hunan University** in 2020, advised by Prof. <a href="https://www.leyuanfang.com/about-me/" target="_blank">Leyuan Fang</a>.
-* I received B. Eng. degree in School of Biomedical Engineering at **Southern Medical University** in 2017. 
-* I was a research assistant in Department of Electrical Engineering at **Tsinghua University** during 2017-2018.<!-- , advised by Prof. Yongfeng Huang.  -->
+* I received B. Eng. degree in School of Biomedical Engineering at **Southern Medical University** in 2017.
+* I visited United Imaging Intelligence(UII) and ShanghaiTech University advised by Prof. <a href="https://bme.shanghaitech.edu.cn/bme_en/2021/0205/c8252a85165/page.htm" target="_blank">Dinggang Shen</a>. -->
 
 I am on the academic job market for faculty positions in AI for healthcare, targeting assistant professorship positions in EE/BME/CS. Please don't hesitate to reach out to me if you have any relevant job opportunities.
 
