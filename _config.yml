@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Chong Wang"
   avatar           : "profile.jpg"
-  bio              : "Ph.D Student in the Australian Institute for Machine Learning (AIML), University of Adelaide. Email: chong.wang@adelaide.edu.au"
+  bio              : "Ph.D Student in the Australian Institute for Machine Learning (AIML), University of Adelaide. Email: <a href="mailto:chong.wang@adelaide.edu.au">chong.wang@adelaide.edu.au</a> <br>"
   location         : "Adelaide, SA, Australia"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  email            : Email: <a href="mailto:chong.wang@adelaide.edu.au">chong.wang@adelaide.edu.au</a> <br>
+  email            : "chong.wang@adelaide.edu.au"
   github           : "cwangrun"
   researchgate     : "https://www.researchgate.net/profile/Chong-Wang-25"
   uri              :
