@@ -19,4 +19,5 @@ I am passionate about delving into the interdisciplinary realm of medical image 
 My work has been published in prestigious journals and conferences, including IEEE TMI, MICCAI, and ICCV, etc.
 
 
-I am on the academic job market for faculty positions in AI for healthcare, targeting assistant professorship positions in EE/BME/CS. Please don't hesitate to reach out to me if you have any relevant job opportunities.
+<!-- I am on the academic job market for faculty positions in AI for healthcare, targeting assistant professorship positions in EE/BME/CS. Please don't hesitate to reach out to me if you have any relevant job opportunities. -->
+
