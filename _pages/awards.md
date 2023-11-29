@@ -6,7 +6,7 @@ author_profile: true
 * BRAIx Top-up PhD Scholarship, 2023 
 * <a href="https://conferences.miccai.org/2022/en/MICCAI-2022-STUDENT-TRAVEL-AWARDS.html" target="_blank"> MICCAI 2022 Student Travel Awards, 2022
 * 
-> <b><a href="https://conferences.miccai.org/2022/en/MICCAI-2022-STUDENT-TRAVEL-AWARDS.html" target="_blank">Generative Noisy-Label Learning by Implicit Dicriminative Approximation with Partial Label Prior</a></b> <br>
+> <b><a href="https://conferences.miccai.org/2022/en/MICCAI-2022-STUDENT-TRAVEL-AWARDS.html" target="_blank">MICCAI 2022 Student Travel Awards</a></b> <br>
 > Fengbei Liu, Yuanhong Chen, <b>Chong Wang</b>, Yuyuan Liu, Gustavo Carneiro.<br>
 > <em>Arxiv</em>, 2023 <be>
 
