@@ -6,8 +6,7 @@ author_profile: true
 * BRAIx Top-up PhD Scholarship, 2023 
 * <a href="https://conferences.miccai.org/2022/en/MICCAI-2022-STUDENT-TRAVEL-AWARDS.html" target="_blank"> MICCAI 2022 Student Travel Awards, 2022
 * 
-> <a href="https://conferences.miccai.org/2022/en/MICCAI-2022-STUDENT-TRAVEL-AWARDS.html" target="_blank">MICCAI 2022 Student Travel Awards</a> <br>
-> 2022
+> <a href="https://conferences.miccai.org/2022/en/MICCAI-2022-STUDENT-TRAVEL-AWARDS.html" target="_blank">MICCAI 2022 Student Travel Awards</a> 2022 <br>
 
 
 * 
