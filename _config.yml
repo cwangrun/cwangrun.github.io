@@ -86,7 +86,7 @@ author:
   location         : "Adelaide, SA, Australia"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  email            : "chong.wang@adelaide.edu.au"
+  email            : Email: <a href="mailto:chong.wang@adelaide.edu.au">chong.wang@adelaide.edu.au</a> <br>
   github           : "cwangrun"
   researchgate     : "https://www.researchgate.net/profile/Chong-Wang-25"
   uri              :
