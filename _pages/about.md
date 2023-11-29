@@ -23,4 +23,4 @@ I am on the academic job market for faculty positions in AI for healthcare, targ
 * Recently, I am dedicated to multi-modal learning with video, text, audio, and gaze modalities, human-machine interaction, out-of-distribution generalization, and learning with noisy labels. 
 * Previously, I focused on developing <a href="https://guo-xiaoqing.github.io/research/" target="_blank">annotation-efficient deep learning</a> solutions, such as data augmentation, semi-supervised learning, domain adaptation, out-of-distribution generalization, and learning with noisy labels, to achieve trustworthy and effective intelligent systems. 
 
-![Words](https://github.com/Guo-Xiaoqing/Guo-Xiaoqing.github.io/raw/master/images/Word_Art.png)
+
