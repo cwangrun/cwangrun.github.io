@@ -309,3 +309,18 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+
+<hr>
+<style>
+    .centered {
+      text-align: center;
+    }
+  </style>
+  
+<div class="centered">
+    <p>Since 2023-07</p>
+</div>
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=500&t=tt&d=kE6zjFmvVEfo9ZlrXMDj91AXehVp8y0ky-5WJq37dN4'></script>
