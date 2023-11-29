@@ -7,8 +7,8 @@ author_profile: true
 * <a href="https://conferences.miccai.org/2022/en/MICCAI-2022-STUDENT-TRAVEL-AWARDS.html" target="_blank"> MICCAI 2022 Student Travel Awards, 2022
 * 
 > <b><a href="https://conferences.miccai.org/2022/en/MICCAI-2022-STUDENT-TRAVEL-AWARDS.html" target="_blank">MICCAI 2022 Student Travel Awards</a></b> <br>
-> Fengbei Liu, Yuanhong Chen, <b>Chong Wang</b>, Yuyuan Liu, Gustavo Carneiro.<br>
-> <em>Arxiv</em>, 2023 <be>
+> 2022
+
 
 * 
 * Outstanding Research Master Thesis Award, Hunan Province, 2022 
