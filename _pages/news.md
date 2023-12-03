@@ -3,7 +3,7 @@ permalink: /news/
 title: "News"
 author_profile: true
 ---
-* [Aug 2023] One paper accepted by **IEEE TMI**. Thanks all co-authors! <br> 
+* [Aug 2023] One paper accepted by **IEEE TMI**. Thanks to all co-authors! <br> 
 * [Jul 2023] Two papers accepted by **ICCV 2023**. Excited to explore Paris!<br>
 * [Feb 2023] Happy to obtain a Top-up Scholarship from BRAIx.<br> 
 
