@@ -10,6 +10,11 @@ author_profile: true
 ## 2023
 
 
+> <b><a href="https://arxiv.org/abs/2308.01184" target="_blank">Mixture of Gaussian-distributed Prototypes with Generative Modelling for Interpretable Image Classification</a></b> <br>
+> <b>Chong Wang</b>, Yuanhong Chen, Fengbei Liu, Davis J McCarthy, Helen Frazer, Gustavo Carneiro.<br>
+> <em>Arxiv</em>, 2023 <be>
+
+
 > <b><a href="https://arxiv.org/abs/2308.01184" target="_blank">Generative Noisy-Label Learning by Implicit Dicriminative Approximation with Partial Label Prior</a></b> <br>
 > Fengbei Liu, Yuanhong Chen, <b>Chong Wang</b>, Yuyuan Liu, Gustavo Carneiro.<br>
 > <em>Arxiv</em>, 2023 <be>
