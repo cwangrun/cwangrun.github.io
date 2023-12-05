@@ -47,13 +47,11 @@ author_profile: true
 
 ## 2022
 
-> <b><a href="https://pubs.rsna.org/doi/full/10.1148/ryai.220072" target="_blank">ADMANI: Annotated Digital Mammograms and Associated Non-Image Datasets</a></b> <br>
-> Helen ML Frazer, Jennifer SN Tang, Michael S Elliott, Katrina M Kunicki, Brendan Hill, Ravishankar Karthik, Chun Fung Kwok, Carlos A Peña-Solorzano, Yuanhong Chen, <b>Chong Wang</b>, Osamah Al-Qershi, Samantha K Fox, Shuai Li, Enes Makalic, Tuong L Nguyen, Daniel F Schmidt, Prabhathi Basnayake Ralalage, Jocelyn F Lippey, Peter Brotchie, John L Hopper, Gustavo Carneiro, Davis J McCarthy.<br>
-> <em>Radiology: Artificial Intelligence</em> (<i><b>Radiol Artif Intell</b></i>), 2022 <br>
 
 > <b><a href="https://ieeexplore.ieee.org/abstract/document/9966840" target="_blank">BowelNet: Joint Semantic-Geometric Ensemble Learning for Bowel Segmentation From Both Partially and Fully Labeled CT Images</a></b> [<a href="https://github.com/cwangrun/BowelNet" target="_blank">Code</a>] <br>
 > <b>Chong Wang</b>, Zhiming Cui, Junwei Yang, Miaofei Han, Gustavo Carneiro, Dinggang Shen.<br>
 > <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2022 <br>
+
 
 > <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-16437-8_2" target="_blank">Knowledge Distillation to Ensemble Global and Interpretable Prototype-Based Mammogram Classification Models</a></b> <br>
 > <b>Chong Wang</b>, Yuanhong Chen, Yuyuan Liu, Yu Tian, Fengbei Liu, Davis J McCarthy, Michael Elliott, Helen Frazer, Gustavo Carneiro.<br>
@@ -70,6 +68,11 @@ author_profile: true
 > <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-16437-8_52" target="_blank">NVUM: Non-volatile Unbiased Memory for Robust Medical Image Classification</a></b> <br>
 > Fengbei Liu, Yuanhong Chen, Yu Tian, Yuyuan Liu, <b>Chong Wang</b>, Vasileios Belagiannis, Gustavo Carneiro.<br>
 > <em>International Conference on Medical Image Computing and Computer-Assisted Intervention</em> (<i><b>MICCAI</b></i>), 2022 <br>
+
+
+> <b><a href="https://pubs.rsna.org/doi/full/10.1148/ryai.220072" target="_blank">ADMANI: Annotated Digital Mammograms and Associated Non-Image Datasets</a></b> <br>
+> Helen ML Frazer, Jennifer SN Tang, Michael S Elliott, Katrina M Kunicki, Brendan Hill, Ravishankar Karthik, Chun Fung Kwok, Carlos A Peña-Solorzano, Yuanhong Chen, <b>Chong Wang</b>, Osamah Al-Qershi, Samantha K Fox, Shuai Li, Enes Makalic, Tuong L Nguyen, Daniel F Schmidt, Prabhathi Basnayake Ralalage, Jocelyn F Lippey, Peter Brotchie, John L Hopper, Gustavo Carneiro, Davis J McCarthy.<br>
+> <em>Radiology: Artificial Intelligence</em> (<i><b>Radiol Artif Intell</b></i>), 2022 <br>
 
 
 ## Before 2022
