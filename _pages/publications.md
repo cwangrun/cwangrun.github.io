@@ -77,13 +77,14 @@ author_profile: true
 
 ## Before 2022
 
+> <b><a href="https://ieeexplore.ieee.org/document/8637959" target="_blank">Attention to Lesion: Lesion-Aware Convolutional Neural Network for Retinal Optical Coherence Tomography Image Classification</a></b> [<a href="https://github.com/cwangrun/LACNN" target="_blank">Code</a>] <br>
+> Leyuan Fang\*, <b>Chong Wang</b>\*, Shutao Li, Hossein Rabbani, Xiangdong Chen, Zhimin Liu. (* indicates equal contribution)<br>
+> <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2019 <br>
+
 > <b><a href="https://link.springer.com/article/10.1007/s11220-020-00299-y" target="_blank">Automatic Classification of Volumetric Optical Coherence Tomography Images via Recurrent Neural Network</a></b> <br>
 > <b>Chong Wang</b>, Yuxuan Jin, Xiangdong Chen, Zhimin Liu.<br>
 > <em>Sensing and Imaging</em> (<i><b>Sens. Imaging</b></i>), 2020 <br>
 
-> <b><a href="https://ieeexplore.ieee.org/document/8637959" target="_blank">Attention to Lesion: Lesion-Aware Convolutional Neural Network for Retinal Optical Coherence Tomography Image Classification</a></b> [<a href="https://github.com/cwangrun/LACNN" target="_blank">Code</a>] <br>
-> Leyuan Fang\*, <b>Chong Wang</b>\*, Shutao Li, Hossein Rabbani, Xiangdong Chen, Zhimin Liu. (* indicates equal contribution)<br>
-> <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2019 <br>
 
 > <b><a href="https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-22/issue-11/116011/Automatic-classification-of-retinal-three-dimensional-optical-coherence-tomography-images/10.1117/1.JBO.22.11.116011.full?SSO=1" target="_blank">Automatic Classification of Retinal Three-dimensional Optical Coherence Tomography Images Using Principal Component Analysis Network with Composite Kernels</a></b> <br>
 > Leyuan Fang, <b>Chong Wang</b>, Shutao Li, Jun Yan, Xiangdong Chen, Hossein Rabbani. <br>
