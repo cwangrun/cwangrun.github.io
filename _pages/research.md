@@ -7,16 +7,16 @@ author_profile: true
 
 
 
-## *Trustworthy AI*
+## *Trustworthy AI, Explainable AI*
 
 
 
 
-## *Deep Learning*
+## *Deep Learning, Computer Vision*
 
 
 
 
-## *Medical Image Analysis*
+## *Medical Image Analysis, AI for Healthcare*
 
 
