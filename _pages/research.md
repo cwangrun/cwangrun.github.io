@@ -12,7 +12,7 @@ author_profile: true
 
 
 
-## *Deep Learning, Computer Vision*
+## *Machine Learning, Computer Vision*
 
 
 
