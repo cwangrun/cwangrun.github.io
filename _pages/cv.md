@@ -20,7 +20,9 @@ Work Experience
 * Oct. 2020 – Oct. 2021
   * Research Internship in IDEA Lab, ShanghaiTech University, China
   * Supervisor: Prof. <a href="https://bme.shanghaitech.edu.cn/bme_en/2021/0205/c8252a85165/page.htm" target="_blank"> Dinggang Shen
+  * Topic: Bowel structure segmentation from abdominal CT scans
 
 * Jun. 2019 – Sep. 2019
   * Research Assistant in Department of Computer Science, The University of HongKong, HongKong
   * Supervisor: Prof. <a href="https://www.cs.hku.hk/people/academic-staff/wenping" target="_blank"> Wenping Wang
+  * Topic: 3D tooth instance segmentation and identification in CBCT images
