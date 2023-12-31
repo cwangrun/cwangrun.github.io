@@ -19,4 +19,11 @@ author_profile: true
 
 ## *Medical Image Analysis, AI for Healthcare*
 
+> Diagnois of retinal diseases with lesion-related domain knowledge. 
+
+![Words](https://github.com/cwangrun/LACNN/blob/master/LACNN-torch/LACNN.png)
+
+> Segmentation of 3D bowel structure with full and partial label supervision.
+>![Words](https://github.com/cwangrun/BowelNet/blob/master/bowel_fineseg/arch/pipeline.png)
+
 
