@@ -9,15 +9,16 @@ author_profile: true
 
 ## *Trustworthy AI, Computer Vision*
 
+> Mixture of Gaussian-distributed prototypes with generative modelling.
+>![Words](./image/MGProto.png)
+
 > Deep-learning model interpretability with visual prototypes.
->![Words](./image/STProtoPNet-intro.png)
 >![Words](./image/STProtoPNet.png)
 
 
 ## *Medical Image Analysis, AI for Healthcare*
 
 > Interpretable and accurate disease diagnosis with reciprocal learning.
->![Words](./image/InterNRL_overview.png)
 >![Words](./image/InterNRL.png)
 
 
