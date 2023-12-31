@@ -8,7 +8,6 @@ author_profile: true
 
 
 ## *Trustworthy AI, Computer Vision*
-
 > Mixture of Gaussian-distributed prototypes with generative modelling.
 >![Words](./image/MGProto.png)
 
@@ -17,7 +16,6 @@ author_profile: true
 
 
 ## *Medical Image Analysis, AI for Healthcare*
-
 > Interpretable and accurate disease diagnosis with reciprocal learning.
 >![Words](./image/InterNRL.png)
 
