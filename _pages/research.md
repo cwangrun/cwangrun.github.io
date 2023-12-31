@@ -9,7 +9,7 @@ author_profile: true
 
 ## *Trustworthy AI, Computer Vision*
 
-> Deep model interpretability with visual prototypes.
+> Deep-learning model interpretability with visual prototypes.
 >![Words](./image/STProtoPNet.png)  >![Words](./image/STProtoPNet-intro.png)
 
 
