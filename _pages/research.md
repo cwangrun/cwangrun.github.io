@@ -22,7 +22,7 @@ author_profile: true
 >![Words](./image/InterNRL.png)
 
 
-> Segmentation of 3D bowel structure with full and partial label supervision.
+> Segmentation of 3D bowel structure with full and partial supervision.
 >![Words](./image/BowelNet.png)
 
 
