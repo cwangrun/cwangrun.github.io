@@ -10,7 +10,7 @@ author_profile: true
 ## *Trustworthy AI, Computer Vision*
 
 > Deep-learning model interpretability with visual prototypes.
->![Words](./image/STProtoPNet.png)  [Words](./image/STProtoPNet-intro.png)
+>![Words](./image/STProtoPNet.png)(./image/STProtoPNet-intro.png)
 
 
 ## *Medical Image Analysis, AI for Healthcare*
