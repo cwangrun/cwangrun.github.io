@@ -7,11 +7,14 @@ author_profile: true
 
 ## *Journal Reviews*
   * IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
+  * IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
   * IEEE Transactions on Medical Imaging (IEEE TMI)
   * Neurocomputing
   * Biomedical Optics Express
+  * Scientific Reports
 
 ## *Conference Reviews*
+  * ICML 2024 
   * ICCV 2023, ICLR 2023, NeurIPS 2023
   * BMVC 2023, ACCV 2022
 
