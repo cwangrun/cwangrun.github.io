@@ -14,7 +14,7 @@ author_profile: true
   * Scientific Reports
 
 ## *Conference Reviews*
-  * ICML 2024 
+  * CVPR 2024, ICML 2024 
   * ICCV 2023, ICLR 2023, NeurIPS 2023
   * BMVC 2023, ACCV 2022
 
