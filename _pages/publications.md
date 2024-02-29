@@ -9,6 +9,11 @@ author_profile: true
 
 
 ## 2024
+
+> <b><a href="https://arxiv.org/abs/2304.02970" target="_blank">A Closer Look at Audio-Visual Segmentation</a></b> <br>
+> Yuanhong Chen, Yuyuan Liu, Fengbei Liu, <b>Chong Wang</b>, Yuanhong Chen, Helen Frazer, Gustavo Carneiro.<br>
+> <em>IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)</em>, 2024 <be>
+
 > <b><a href="https://arxiv.org/abs/2308.01184" target="_blank">Partial Label Supervision for Agnostic Generative Noisy Label Learning</a></b> <br>
 > Fengbei Liu, <b>Chong Wang</b>, Yuanhong Chen, Yuyuan Liu, Gustavo Carneiro.<br>
 > <em>Arxiv</em>, 2024 <be>
