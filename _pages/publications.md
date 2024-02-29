@@ -34,8 +34,8 @@ author_profile: true
 > <em>Arxiv</em>, 2023 <be>
 
 
-> <b><a href="https://arxiv.org/abs/2308.01184" target="_blank">Generative Noisy-Label Learning by Implicit Dicriminative Approximation with Partial Label Prior</a></b> <br>
-> Fengbei Liu, Yuanhong Chen, <b>Chong Wang</b>, Yuyuan Liu, Gustavo Carneiro.<br>
+> <b><a href="https://arxiv.org/abs/2308.01184" target="_blank">Partial Label Supervision for Agnostic Generative Noisy Label Learning</a></b> <br>
+> Fengbei Liu, <b>Chong Wang</b>, Yuanhong Chen, Yuyuan Liu, Gustavo Carneiro.<br>
 > <em>Arxiv</em>, 2023 <be>
 
 
