@@ -7,6 +7,13 @@ author_profile: true
 
 <!-- title: "Selected Publications" --> 
 
+
+## 2024
+> <b><a href="https://arxiv.org/abs/2308.01184" target="_blank">Partial Label Supervision for Agnostic Generative Noisy Label Learning</a></b> <br>
+> Fengbei Liu, <b>Chong Wang</b>, Yuanhong Chen, Yuyuan Liu, Gustavo Carneiro.<br>
+> <em>Arxiv</em>, 2024 <be>
+
+
 ## 2023
 
 > <b><a href="https://ieeexplore.ieee.org/abstract/document/10225391" target="_blank">An Interpretable and Accurate Deep-learning Diagnosis Framework Modelled with Fully and Semi-supervised Reciprocal Learning</a></b> <br>
@@ -31,11 +38,6 @@ author_profile: true
 
 > <b><a href="https://arxiv.org/abs/2312.00092" target="_blank">Mixture of Gaussian-distributed Prototypes with Generative Modelling for Interpretable Image Classification</a></b> <br>
 > <b>Chong Wang</b>, Yuanhong Chen, Fengbei Liu, Davis J McCarthy, Helen Frazer, Gustavo Carneiro.<br>
-> <em>Arxiv</em>, 2023 <be>
-
-
-> <b><a href="https://arxiv.org/abs/2308.01184" target="_blank">Partial Label Supervision for Agnostic Generative Noisy Label Learning</a></b> <br>
-> Fengbei Liu, <b>Chong Wang</b>, Yuanhong Chen, Yuyuan Liu, Gustavo Carneiro.<br>
 > <em>Arxiv</em>, 2023 <be>
 
 
