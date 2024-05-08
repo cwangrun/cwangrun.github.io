@@ -16,7 +16,7 @@ redirect_from:
 
 
 I am passionate about delving into the interdisciplinary realm of medical image analysis, computer vision, and machine learning, dedicating to advancing artificial intelligence (AI) techniques in healthcare, with a particular focus on creating trustworthy, robust, and annotation-efficient solutions for medical diagnosis and interventions.
-My work has been published in prestigious journals and conferences, including IEEE TMI, MICCAI, CVPR, ICCV, etc.
+My work has been published in prestigious journals and conferences, including IEEE TMI, MedIA, MICCAI, CVPR, ICCV, etc.
 
 
 <!-- I am on the academic job market for faculty positions in AI for healthcare, targeting assistant professorship positions in EE/BME/CS. Please don't hesitate to reach out to me if you have any relevant job opportunities. -->
