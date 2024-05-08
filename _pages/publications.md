@@ -10,6 +10,10 @@ author_profile: true
 
 ## 2024
 
+> <b><a href="https://arxiv.org/abs/2301.13418" target="_blank">BRAIxDet: Learning to Detect Malignant Breast Lesion with Incomplete Annotations</a></b> <br>
+> Yuanhong Chen, Yuyuan Liu, <b>Chong Wang</b>, Michael Elliott, Chun Fung Kwok, Yu Tian, Fengbei Liu, Helen Frazer, Davis J McCarthy, Gustavo Carneiro.<br>
+> <em>Medical Image Analysis</em> (<i><b>IEEE TMI</b></i>), 2024 <be>
+
 > <b><a href="https://arxiv.org/abs/2304.02970" target="_blank">Unraveling Instance Associations: A Closer Look for Audio-Visual Segmentation</a></b> <br>
 > Yuanhong Chen, Yuyuan Liu, Hu Wang, Fengbei Liu, <b>Chong Wang</b>, Helen Frazer, Gustavo Carneiro.<br>
 > <em>IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)</em>, 2024 <be>
@@ -46,11 +50,6 @@ author_profile: true
 > <em>Arxiv</em>, 2023 <be>
 
 
-> <b><a href="https://arxiv.org/abs/2301.13418" target="_blank">BRAIxDet: Learning to Detect Malignant Breast Lesion with Incomplete Annotations</a></b> <br>
-> Yuanhong Chen, Yuyuan Liu, <b>Chong Wang</b>, Michael Elliott, Chun Fung Kwok, Yu Tian, Fengbei Liu, Helen Frazer, Davis J McCarthy, Gustavo Carneiro.<br>
-> <em>Arxiv</em>, 2023 <be>
-
-	
 
 ## 2022
 
