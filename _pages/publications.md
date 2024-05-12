@@ -10,7 +10,7 @@ author_profile: true
 
 ## 2024
 
-> <b><a href="https://arxiv.org/abs/2301.13418" target="_blank">BRAIxDet: Learning to Detect Malignant Breast Lesion with Incomplete Annotations</a></b> <br>
+> <b><a href="https://www.sciencedirect.com/science/article/pii/S1361841524001178" target="_blank">BRAIxDet: Learning to Detect Malignant Breast Lesion with Incomplete Annotations</a></b> <br>
 > Yuanhong Chen, Yuyuan Liu, <b>Chong Wang</b>, Michael Elliott, Chun Fung Kwok, Yu Tian, Fengbei Liu, Helen Frazer, Davis J McCarthy, Gustavo Carneiro.<br>
 > <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2024 <be>
 
