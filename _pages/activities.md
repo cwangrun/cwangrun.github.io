@@ -9,6 +9,7 @@ author_profile: true
   * IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
   * IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
   * IEEE Transactions on Medical Imaging (IEEE TMI)
+  * IEEE Journal of Biomedical and Health Informatics (IEEE JBHI)
   * Neurocomputing
   * Biomedical Optics Express
   * Scientific Reports
