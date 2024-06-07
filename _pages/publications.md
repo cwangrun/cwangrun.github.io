@@ -18,6 +18,10 @@ author_profile: true
 > Yuanhong Chen, Yuyuan Liu, Hu Wang, Fengbei Liu, <b>Chong Wang</b>, Helen Frazer, Gustavo Carneiro.<br>
 > <em>IEEE / CVF Computer Vision and Pattern Recognition Conference (<i><b>CVPR</b></i>)</em>, 2024 <be>
 
+> <b><a href="https://arxiv.org/abs/2312.00092" target="_blank">Mixture of Gaussian-distributed Prototypes with Generative Modelling for Interpretable and Trustworthy Image Recognition</a></b> <br>
+> <b>Chong Wang</b>, Yuanhong Chen, Fengbei Liu, Yuyuan Liu, Davis James McCarthy, Helen Frazer, Gustavo Carneiro.<br>
+> <em>Arxiv</em>, 2024 <be>
+
 > <b><a href="https://arxiv.org/abs/2308.01184" target="_blank">Partial Label Supervision for Agnostic Generative Noisy Label Learning</a></b> <br>
 > Fengbei Liu, <b>Chong Wang</b>, Yuanhong Chen, Yuyuan Liu, Gustavo Carneiro.<br>
 > <em>Arxiv</em>, 2024 <be>
@@ -44,10 +48,6 @@ author_profile: true
 > Yu Tian, Guansong Pang, Yuyuan Liu, <b>Chong Wang</b>, Yuanhong Chen, Fengbei Liu, Rajvinder Singh, Johan W Verjans, Mengyu Wang, Gustavo Carneiro.<br>
 > <em>International Workshop on Machine Learning in Medical Imaging</em> (<i><b>MLMI</b></i>), 2023 <be>
 
-
-> <b><a href="https://arxiv.org/abs/2312.00092" target="_blank">Mixture of Gaussian-distributed Prototypes with Generative Modelling for Interpretable Image Classification</a></b> <br>
-> <b>Chong Wang</b>, Yuanhong Chen, Fengbei Liu, Davis J McCarthy, Helen Frazer, Gustavo Carneiro.<br>
-> <em>Arxiv</em>, 2023 <be>
 
 
 
