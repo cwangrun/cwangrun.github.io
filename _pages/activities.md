@@ -12,7 +12,6 @@ author_profile: true
   * IEEE Journal of Biomedical and Health Informatics (IEEE JBHI)
   * Neurocomputing
   * Biomedical Optics Express
-  * Scientific Reports
 
 ## *Conference Reviews*
   * CVPR 2024, ICML 2024, MICCAI 2024 
