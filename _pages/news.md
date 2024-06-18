@@ -3,6 +3,7 @@ permalink: /news/
 title: "News"
 author_profile: true
 ---
+* [Jun 2024] One paper accepted by **MICCAI 2024**.<br>
 * [May 2024] One paper accepted by **MedIA**.<br>
 * [Feb 2024] One paper accepted by **CVPR 2024**.<br> 
 * [Aug 2023] One paper accepted by **IEEE TMI**. Thanks to all co-authors! <br> 
