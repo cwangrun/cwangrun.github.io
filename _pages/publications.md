@@ -10,6 +10,10 @@ author_profile: true
 
 ## 2024
 
+> <b><a href="https://arxiv.org/abs/2406.12577" target="_blank">Cephalometric Landmark Detection across Ages with Prototypical Network</a></b> <br>
+> Han Wu\*, <b>Chong Wang</b>\*, Lanzhuju Mei, Tong Yang, Min Zhu, Dingggang Shen, Zhiming Cui.(* indicates equal contribution)<br>
+> <em>International Conference on Medical Image Computing and Computer-Assisted Intervention</em> (<i><b>MICCAI</b></i>), 2024 <be>
+
 > <b><a href="https://www.sciencedirect.com/science/article/pii/S1361841524001178" target="_blank">BRAIxDet: Learning to Detect Malignant Breast Lesion with Incomplete Annotations</a></b> <br>
 > Yuanhong Chen, Yuyuan Liu, <b>Chong Wang</b>, Michael Elliott, Chun Fung Kwok, Yu Tian, Fengbei Liu, Helen Frazer, Davis J McCarthy, Gustavo Carneiro.<br>
 > <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2024 <be>
