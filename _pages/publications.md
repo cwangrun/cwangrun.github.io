@@ -14,6 +14,10 @@ author_profile: true
 > Han Wu\*, <b>Chong Wang</b>\*, Lanzhuju Mei, Tong Yang, Min Zhu, Dingggang Shen, Zhiming Cui. (* indicates equal contribution)<br>
 > <em>International Conference on Medical Image Computing and Computer-Assisted Intervention</em> (<i><b>MICCAI</b></i>), 2024 <be>
 
+> <b><a href="https://arxiv.org/abs/2407.05358" target="_blank">CPM: Class-conditional Prompting Machine for Audio-visual Segmentation</a></b> <br>
+> Yuanhong Chen, <b>Chong Wang</b>, Yuyuan Liu, Hu Wang, Gustavo Carneiro.<br>
+> <em>European Conference on Computer Vision</em> (<i><b>ECCV</b></i>), 2024 <be>
+
 > <b><a href="https://www.sciencedirect.com/science/article/pii/S1361841524001178" target="_blank">BRAIxDet: Learning to Detect Malignant Breast Lesion with Incomplete Annotations</a></b> <br>
 > Yuanhong Chen, Yuyuan Liu, <b>Chong Wang</b>, Michael Elliott, Chun Fung Kwok, Yu Tian, Fengbei Liu, Helen Frazer, Davis J McCarthy, Gustavo Carneiro.<br>
 > <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2024 <be>
