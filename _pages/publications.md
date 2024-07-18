@@ -18,7 +18,7 @@ author_profile: true
 > Yuanhong Chen, Yuyuan Liu, <b>Chong Wang</b>, Michael Elliott, Chun Fung Kwok, Yu Tian, Fengbei Liu, Helen Frazer, Davis J McCarthy, Gustavo Carneiro.<br>
 > <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2024 <be>
 
-> <b><a href="https://arxiv.org/abs/2304.02970" target="_blank">Unraveling Instance Associations: A Closer Look for Audio-Visual Segmentation</a></b> <br>
+> <b><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Unraveling_Instance_Associations_A_Closer_Look_for_Audio-Visual_Segmentation_CVPR_2024_paper.pdf" target="_blank">Unraveling Instance Associations: A Closer Look for Audio-Visual Segmentation</a></b> <br>
 > Yuanhong Chen, Yuyuan Liu, Hu Wang, Fengbei Liu, <b>Chong Wang</b>, Helen Frazer, Gustavo Carneiro.<br>
 > <em>IEEE / CVF Computer Vision and Pattern Recognition Conference (<i><b>CVPR</b></i>)</em>, 2024 <be>
 
