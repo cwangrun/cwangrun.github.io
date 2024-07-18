@@ -33,7 +33,7 @@ author_profile: true
 
 ## 2023
 
-> <b><a href="https://ieeexplore.ieee.org/abstract/document/10225391" target="_blank">An Interpretable and Accurate Deep-learning Diagnosis Framework Modelled with Fully and Semi-supervised Reciprocal Learning</a></b> <br>
+> <b><a href="https://ieeexplore.ieee.org/abstract/document/10225391" target="_blank">An Interpretable and Accurate Deep-learning Diagnosis Framework Modelled with Fully and Semi-supervised Reciprocal Learning</a></b> <br> [<a href="https://github.com/sendyma/Medical-XAI" target="_blank">Code</a>] <br>
 > <b>Chong Wang</b>, Yuanhong Chen, Fengbei Liu, Michael Elliott, Chun Fung Kwok, Carlos Peña-Solorzano, Helen Frazer, Davis James McCarthy, Gustavo Carneiro.<br>
 > <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2023 <be>
 
