@@ -3,6 +3,7 @@ permalink: /awards/
 title: "Awards"
 author_profile: true
 ---
+* Dean’s Commendation for Doctoral Thesis Excellence, The University of Adelaide, 2024 
 * BRAIx Top-up PhD Scholarship, 2023 
 * <a href="https://conferences.miccai.org/2022/en/MICCAI-2022-STUDENT-TRAVEL-AWARDS.html" target="_blank"> MICCAI 2022 Student Travel Awards</a>, 2022 
 * Outstanding Research Master Thesis Award, Hunan Province, 2022 
