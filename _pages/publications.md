@@ -10,8 +10,12 @@ author_profile: true
 
 ## 2024
 
+> <b><a href="https://www.nature.com/articles/s41467-024-51725-8#:~:text=Across%20149%2C105%20screening%20episodes%20in,(arbitration)%20reads%20(Table%201" target="_blank">Translation Consistent Semi-supervised Segmentation for 3D Medical Images</a></b> [<a href="https://github.com/yyliu01/TraCoCo" target="_blank">Code</a>] <br>
+> Yuyuan Liu, Yu Tian, <b>Chong Wang</b>, Yuanhong Chen, Fengbei Liu, Vasileios Belagiannis, Gustavo Carneiro. <br>
+> <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2024 <be>
+
 > <b><a href="https://www.nature.com/articles/s41467-024-51725-8#:~:text=Across%20149%2C105%20screening%20episodes%20in,(arbitration)%20reads%20(Table%201" target="_blank">Comparison of AI-integrated pathways with human-AI interaction in population mammographic screening for breast cancer</a></b> [<a href="https://github.com/BRAIx-project/retrospective-cohort-study" target="_blank">Code</a>] <br>
-> Helen Frazer, Carlos Pena-Solorzano, Chun Fung Kwok, Michael Elliott, Yuanhong Chen, <b>Chong Wang</b>, Jocelyn Lippey, John Hopper, Peter Brotchie, Gustavo Carneiro, Davis McCarthy, and BRAIx Team. <br>
+> Helen Frazer, Carlos Pena-Solorzano, Chun Fung Kwok, Michael Elliott, Yuanhong Chen, <b>Chong Wang</b>, Jocelyn Lippey, John Hopper, Peter Brotchie, Gustavo Carneiro, Davis McCarthy, BRAIx Team. <br>
 > <em>Nature Communications</em> (<i><b>Nat. Commun.</b></i>), 2024 <be>
 
 > <b><a href="https://arxiv.org/abs/2406.12577" target="_blank">Cephalometric Landmark Detection across Ages with Prototypical Network</a></b> [<a href="https://shanghaitech-impact.github.io/CeLDA/" target="_blank">Code</a>] <br>
