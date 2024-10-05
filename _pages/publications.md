@@ -55,7 +55,7 @@ author_profile: true
 > <em>IEEE/CVF International Conference on Computer Vision</em> (<i><b>ICCV</b></i>), 2023 <br>
 
 
-> <b><a href="https://openaccess.thecvf.com/content/ICCV2023/html/Chen_BoMD_Bag_of_Multi-label_Descriptors_for_Noisy_Chest_X-ray_Classification_ICCV_2023_paper.html" target="_blank">BOMD: Bag of Multi-label Descriptors for Noisy Chest X-ray Classification</a></b> <br>
+> <b><a href="https://openaccess.thecvf.com/content/ICCV2023/html/Chen_BoMD_Bag_of_Multi-label_Descriptors_for_Noisy_Chest_X-ray_Classification_ICCV_2023_paper.html" target="_blank">BOMD: Bag of Multi-label Descriptors for Noisy Chest X-ray Classification</a></b> [<a href="https://github.com/cyh-0/BoMD" target="_blank">Code</a>] <br>
 > Yuanhong Chen, Fengbei Liu, Hu Wang, <b>Chong Wang</b>, Yuyuan Liu, Yu Tian, Gustavo Carneiro. <br>
 > <em>IEEE/CVF International Conference on Computer Vision</em> (<i><b>ICCV</b></i>), 2023 <br>
 
