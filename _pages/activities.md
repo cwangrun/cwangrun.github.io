@@ -10,8 +10,8 @@ author_profile: true
   * IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
   * IEEE Transactions on Medical Imaging (IEEE TMI)
   * IEEE Journal of Biomedical and Health Informatics (IEEE JBHI)
-  * Neurocomputing
   * Biomedical Optics Express
+  * Neurocomputing
 
 ## *Conference Reviews*
   * CVPR 2024, ICML 2024, MICCAI 2024, NeurIPS 2024, BMVC 2024
