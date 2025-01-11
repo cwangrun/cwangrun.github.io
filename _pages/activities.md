@@ -11,6 +11,7 @@ author_profile: true
   * IEEE Transactions on Image Processing (IEEE TIP)
   * IEEE Transactions on Medical Imaging (IEEE TMI)
   * IEEE Journal of Biomedical and Health Informatics (IEEE JBHI)
+  * IEEE Signal Processing Letters (IEEE SPL)
   * Biomedical Optics Express
   * Neurocomputing
 
