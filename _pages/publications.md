@@ -9,7 +9,7 @@ author_profile: true
 
 ## 2025
 
-> <b><a href="https://arxiv.org/abs/2411.04607" target="_blank">Cross- and Intra-image Prototypical Learning for Multi-label Disease Diagnosis and Interpretation</a></b> [<a href="https://github.com/cwangrun/CIPL" target="_blank">Code</a>] <br>
+> <b><a href="https://ieeexplore.ieee.org/document/10887396" target="_blank">Cross- and Intra-image Prototypical Learning for Multi-label Disease Diagnosis and Interpretation</a></b> [<a href="https://github.com/cwangrun/CIPL" target="_blank">Code</a>] <br>
 > <b>Chong Wang</b>, Fengbei Liu, Yuanhong Chen, Helen Frazer, Gustavo Carneiro. <br>
 > <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2025 <be>
 
