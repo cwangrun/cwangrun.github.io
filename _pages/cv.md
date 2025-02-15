@@ -17,7 +17,7 @@ Education
 
 Work Experience
 ======
-* Oct. 2020 – Oct. 2021
+* Aug. 2020 – Mar. 2021
   * Research Internship in IDEA Lab, ShanghaiTech University, China
   * Supervisor: Prof. <a href="https://bme.shanghaitech.edu.cn/bme_en/2021/0205/c8252a85165/page.htm" target="_blank"> Dinggang Shen
   * Topic: Bowel structure segmentation from abdominal CT scans
