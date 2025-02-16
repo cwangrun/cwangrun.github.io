@@ -6,7 +6,7 @@ author_profile: true
 * [Feb 2025] One paper accepted by **IEEE TMI**.<br>
 * [Sep 2024] One paper accepted by **IEEE TMI**.<br>
 * [Aug 2024] One paper accepted by **Nature Communications**.<br>
-# * [Jul 2024] One paper accepted by **ECCV 2024**.<br>
+* [Jul 2024] One paper accepted by **ECCV 2024**.<br>
 * [Jun 2024] One paper accepted by **MICCAI 2024**.<br>
 * [May 2024] One paper accepted by **MedIA**.<br>
 * [Feb 2024] One paper accepted by **CVPR 2024**.<br> 
