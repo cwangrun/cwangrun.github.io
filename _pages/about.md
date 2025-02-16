@@ -16,10 +16,10 @@ redirect_from:
 * I visited Department of Computer Science, The University of HongKong in 2019, advised by Prof. <a href="https://www.cs.hku.hk/people/academic-staff/wenping" target="_blank">Wenping Wang</a>. 
 
 
-I am passionate about delving into the interdisciplinary realm of medical image analysis, computer vision, and machine learning, dedicating to advancing artificial intelligence (AI) techniques in healthcare, with a particular focus on creating trustworthy, robust, and annotation-efficient solutions for medical diagnosis and interventions.
-My work has been published in prestigious journals and conferences, including Nature Communications, IEEE TMI, MedIA, MICCAI, CVPR, ICCV, ECCV, etc.
 
-<!-- This is commented out. -->
+
+<!-- I am passionate about delving into the interdisciplinary realm of medical image analysis, computer vision, and machine learning, dedicating to advancing artificial intelligence (AI) techniques in healthcare, with a particular focus on creating trustworthy, robust, and annotation-efficient solutions for medical diagnosis and interventions.
+My work has been published in prestigious journals and conferences, including Nature Communications, IEEE TMI, MedIA, MICCAI, CVPR, ICCV, ECCV, etc. -->
 
 I am passionate about delving into the interdisciplinary realm of medical image analysis, computer vision, and machine learning, dedicating to advancing artificial intelligence (AI) techniques in healthcare, with a particular focus on creating trustworthy, robust, and annotation-efficient solutions for medical diagnosis and interventions.
 My work has been published in prestigious journals and conferences, including Nature Communications, IEEE TMI, MedIA, MICCAI, CVPR, ICCV, ECCV, etc.
