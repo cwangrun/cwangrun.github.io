@@ -23,9 +23,9 @@ author_profile: true
 > Yuyuan Liu, Yu Tian, <b>Chong Wang</b>, Yuanhong Chen, Fengbei Liu, Vasileios Belagiannis, Gustavo Carneiro. <br>
 > <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2024 <be>
 
-> <b><a href="https://www.nature.com/articles/s41467-024-51725-8" target="_blank">Comparison of AI-integrated pathways with human-AI interaction in population mammographic screening for breast cancer</a></b> [<a href="https://github.com/BRAIx-project/retrospective-cohort-study" target="_blank">Code</a>] <br>
+<!-- > <b><a href="https://www.nature.com/articles/s41467-024-51725-8" target="_blank">Comparison of AI-integrated pathways with human-AI interaction in population mammographic screening for breast cancer</a></b> [<a href="https://github.com/BRAIx-project/retrospective-cohort-study" target="_blank">Code</a>] <br>
 > Helen Frazer, Carlos Pena-Solorzano, Chun Fung Kwok, Michael Elliott, Yuanhong Chen, <b>Chong Wang</b>, Jocelyn Lippey, John Hopper, Peter Brotchie, Gustavo Carneiro, Davis McCarthy, BRAIx Team. <br>
-> <em>Nature Communications</em> (<i><b>Nat. Commun.</b></i>), 2024 <be>
+> <em>Nature Communications</em> (<i><b>Nat. Commun.</b></i>), 2024 <br> -->
 
 > <b><a href="https://arxiv.org/abs/2406.12577" target="_blank">Cephalometric Landmark Detection across Ages with Prototypical Network</a></b> [<a href="https://shanghaitech-impact.github.io/CeLDA/" target="_blank">Code</a>] <br>
 > Han Wu\*, <b>Chong Wang</b>\*, Lanzhuju Mei, Tong Yang, Min Zhu, Dingggang Shen, Zhiming Cui. (* indicates equal contribution)<br>
