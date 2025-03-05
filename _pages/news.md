@@ -3,7 +3,9 @@ permalink: /news/
 title: "News"
 author_profile: true
 ---
+* [Oct 2024] Receive **University Doctoral Research Medal**!
 * [Feb 2025] One paper accepted by **IEEE TMI**.<br>
+* [Oct 2024] Obtain my PhD degree with **Dean’s Commendation for Doctoral Thesis Excellence**!
 * [Sep 2024] One paper accepted by **IEEE TMI**.<br>
 * [Aug 2024] One paper accepted by **Nature Communications**.<br>
 <!-- * [Jul 2024] One paper accepted by **ECCV 2024**.<br> -->
