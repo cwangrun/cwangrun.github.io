@@ -5,6 +5,7 @@ author_profile: true
 ---
 * [Feb 2025] Receive **University Doctoral Research Medal**!
 * [Feb 2025] One paper accepted by **IEEE TMI**.<br>
+
 * [Oct 2024] Obtain my PhD degree with **Dean’s Commendation for Doctoral Thesis Excellence**!
 * [Sep 2024] One paper accepted by **IEEE TMI**.<br>
 * [Aug 2024] One paper accepted by **Nature Communications**.<br>
