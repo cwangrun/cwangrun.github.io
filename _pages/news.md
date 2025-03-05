@@ -3,7 +3,7 @@ permalink: /news/
 title: "News"
 author_profile: true
 ---
-* [Feb 2025] Receive **University Doctoral Research Medal** (only 15 Awardees in 2024)!
+* [Feb 2025] Receive **Doctoral Research Medal** (15 Awardees at AdeUni in 2024)!
 * [Feb 2025] One paper accepted by **IEEE TMI**.<br>
 
 * [Oct 2024] Obtain my PhD degree with **Dean’s Commendation for Doctoral Thesis Excellence**!
