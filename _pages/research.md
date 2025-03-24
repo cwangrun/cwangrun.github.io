@@ -9,7 +9,7 @@ author_profile: true
 
 <!-- ## *Trustworthy AI, Computer Vision* -->
 
-## *Trustworthy Machine Learning*
+## *XAI*
 
 > Mixture of Gaussian-distributed prototypes with generative modelling.
 >![Words](./image/MGProto.png)
