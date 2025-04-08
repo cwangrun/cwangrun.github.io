@@ -11,7 +11,7 @@ author_profile: true
 
 
 > <b><a href="https://ieeexplore.ieee.org/document/10955117" target="_blank">Progressive Mining and Dynamic Distillation of Hierarchical Prototypes for Disease Classification and Localisation</a></b> <br>
-> <b>Chong Wang</b>, Fengbei Liu, Yuanhong Chen, Chun Fung Kwok, Michael Elliott, Carlos Pena-Solorzano, Davis McCarthy, Helen Frazer, Gustavo Carneiro. <br>
+> <b>Chong Wang</b>, Fengbei Liu, Yuanhong Chen, Chun Fung Kwok, Michael Elliott, Carlos Pena-Solorzano, Davis J McCarthy, Helen Frazer, Gustavo Carneiro. <br>
 > <em>IEEE Journal of Biomedical and Health Informatics</em> (<i><b>IEEE JBHI</b></i>), 2025 <be>
 
 > <b><a href="https://ieeexplore.ieee.org/document/10887396" target="_blank">Cross- and Intra-image Prototypical Learning for Multi-label Disease Diagnosis and Interpretation</a></b> [<a href="https://github.com/cwangrun/CIPL" target="_blank">Code</a>] <br>
@@ -29,7 +29,7 @@ author_profile: true
 > <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2024 <be>
 
 <!-- > <b><a href="https://www.nature.com/articles/s41467-024-51725-8" target="_blank">Comparison of AI-integrated pathways with human-AI interaction in population mammographic screening for breast cancer</a></b> [<a href="https://github.com/BRAIx-project/retrospective-cohort-study" target="_blank">Code</a>] <br>
-> Helen Frazer, Carlos Pena-Solorzano, Chun Fung Kwok, Michael Elliott, Yuanhong Chen, <b>Chong Wang</b>, Jocelyn Lippey, John Hopper, Peter Brotchie, Gustavo Carneiro, Davis McCarthy, BRAIx Team. <br>
+> Helen Frazer, Carlos Pena-Solorzano, Chun Fung Kwok, Michael Elliott, Yuanhong Chen, <b>Chong Wang</b>, Jocelyn Lippey, John Hopper, Peter Brotchie, Gustavo Carneiro, Davis J McCarthy, BRAIx Team. <br>
 > <em>Nature Communications</em> (<i><b>Nat. Commun.</b></i>), 2024 <br> -->
 
 > <b><a href="https://arxiv.org/abs/2406.12577" target="_blank">Cephalometric Landmark Detection across Ages with Prototypical Network</a></b> [<a href="https://shanghaitech-impact.github.io/CeLDA/" target="_blank">Code</a>] <br>
@@ -58,7 +58,7 @@ author_profile: true
 
 
 > <b><a href="https://arxiv.org/abs/2312.00092" target="_blank">Mixture of Gaussian-distributed Prototypes with Generative Modelling for Interpretable and Trustworthy Image Recognition</a></b> <br>
-> <b>Chong Wang</b>, Yuanhong Chen, Fengbei Liu, Yuyuan Liu, Davis James McCarthy, Helen Frazer, Gustavo Carneiro.<br>
+> <b>Chong Wang</b>, Yuanhong Chen, Fengbei Liu, Yuyuan Liu, Davis J McCarthy, Helen Frazer, Gustavo Carneiro.<br>
 > <em>Arxiv</em>, 2024 <be>
 
 > <b><a href="https://arxiv.org/abs/2308.01184" target="_blank">Partial Label Supervision for Agnostic Generative Noisy Label Learning</a></b> <br>
@@ -69,7 +69,7 @@ author_profile: true
 ## 2023
 
 > <b><a href="https://ieeexplore.ieee.org/abstract/document/10225391" target="_blank">An Interpretable and Accurate Deep-learning Diagnosis Framework Modelled with Fully and Semi-supervised Reciprocal Learning</a></b> [<a href="https://github.com/sendyma/Medical-XAI" target="_blank">Code</a>] <br>
-> <b>Chong Wang</b>, Yuanhong Chen, Fengbei Liu, Michael Elliott, Chun Fung Kwok, Carlos Peña-Solorzano, Helen Frazer, Davis James McCarthy, Gustavo Carneiro.<br>
+> <b>Chong Wang</b>, Yuanhong Chen, Fengbei Liu, Michael Elliott, Chun Fung Kwok, Carlos Peña-Solorzano, Helen Frazer, Davis J McCarthy, Gustavo Carneiro.<br>
 > <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2023 <be>
 
 
@@ -77,7 +77,7 @@ author_profile: true
 
 
 <!-- > > <b><a href="https://openaccess.thecvf.com/content/ICCV2023/html/Wang_Learning_Support_and_Trivial_Prototypes_for_Interpretable_Image_Classification_ICCV_2023_paper.html" target="_blank">Learning Support and Trivial Prototypes for Interpretable Image Classification</a></b> [<a href="https://github.com/cwangrun/ST-ProtoPNet" target="_blank">Code</a>] <br>
-> <b>Chong Wang</b>, Yuyuan Liu, Yuanhong Chen, Fengbei Liu, Yu Tian, Davis McCarthy, Helen Frazer, Gustavo Carneiro. <br>
+> <b>Chong Wang</b>, Yuyuan Liu, Yuanhong Chen, Fengbei Liu, Yu Tian, Davis J McCarthy, Helen Frazer, Gustavo Carneiro. <br>
 > <em>IEEE/CVF International Conference on Computer Vision</em> (<i><b>ICCV</b></i>), 2023 <br> -->
 
 
