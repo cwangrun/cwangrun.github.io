@@ -9,6 +9,11 @@ author_profile: true
 
 ## 2025
 
+
+> <b><a href="https://ieeexplore.ieee.org/document/10955117" target="_blank">Progressive Mining and Dynamic Distillation of Hierarchical Prototypes for Disease Classification and Localisation</a></b> <br>
+> <b>Chong Wang</b>, Fengbei Liu, Yuanhong Chen, Chun Fung Kwok, Michael Elliott, Carlos Pena-Solorzano, Davis McCarthy, Helen Frazer, Gustavo Carneiro. <br>
+> <em>IEEE Journal of Biomedical and Health Informatics</em> (<i><b>IEEE JBHI</b></i>), 2025 <be>
+
 > <b><a href="https://ieeexplore.ieee.org/document/10887396" target="_blank">Cross- and Intra-image Prototypical Learning for Multi-label Disease Diagnosis and Interpretation</a></b> [<a href="https://github.com/cwangrun/CIPL" target="_blank">Code</a>] <br>
 > <b>Chong Wang</b>, Fengbei Liu, Yuanhong Chen, Helen Frazer, Gustavo Carneiro. <br>
 > <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2025 <be>
