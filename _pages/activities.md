@@ -20,12 +20,12 @@ author_profile: true
   * ICLR 2023, NeurIPS 2023
   * BMVC 2023
     
-<!--  * CVPR 2024, ICML 2024, MICCAI 2024, NeurIPS 2024, BMVC 2024
+  * CVPR 2024, ICML 2024, MICCAI 2024, NeurIPS 2024, BMVC 2024
   * ICCV 2023, ICLR 2023, NeurIPS 2023
-  * BMVC 2023, ACCV 2022. -->
+  * BMVC 2023, ACCV 2022.
 
 
 ## *Conference Presentations*
   * MICCAI 2022, Singapore <a href="./../files/MICCAI2022.pdf" target="_blank">[Poster]</a>
 
-  <!--  * ICCV 2023, Paris, France <a href="./../files/ICCV2023.pdf" target="_blank">[Poster]</a>  -->
+  * ICCV 2023, Paris, France <a href="./../files/ICCV2023.pdf" target="_blank">[Poster]</a>  
