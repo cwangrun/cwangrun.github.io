@@ -28,9 +28,9 @@ author_profile: true
 > Yuyuan Liu, Yu Tian, <b>Chong Wang</b>, Yuanhong Chen, Fengbei Liu, Vasileios Belagiannis, Gustavo Carneiro. <br>
 > <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2024 <be>
 
-<!-- > <b><a href="https://www.nature.com/articles/s41467-024-51725-8" target="_blank">Comparison of AI-integrated pathways with human-AI interaction in population mammographic screening for breast cancer</a></b> [<a href="https://github.com/BRAIx-project/retrospective-cohort-study" target="_blank">Code</a>] <br>
+> <b><a href="https://www.nature.com/articles/s41467-024-51725-8" target="_blank">Comparison of AI-integrated pathways with human-AI interaction in population mammographic screening for breast cancer</a></b> [<a href="https://github.com/BRAIx-project/retrospective-cohort-study" target="_blank">Code</a>] <br>
 > Helen Frazer, Carlos Pena-Solorzano, Chun Fung Kwok, Michael Elliott, Yuanhong Chen, <b>Chong Wang</b>, Jocelyn Lippey, John Hopper, Peter Brotchie, Gustavo Carneiro, Davis J McCarthy, BRAIx Team. <br>
-> <em>Nature Communications</em> (<i><b>Nat. Commun.</b></i>), 2024 <br> -->
+> <em>Nature Communications</em> (<i><b>Nat. Commun.</b></i>), 2024 <br> 
 
 > <b><a href="https://arxiv.org/abs/2406.12577" target="_blank">Cephalometric Landmark Detection across Ages with Prototypical Network</a></b> [<a href="https://shanghaitech-impact.github.io/CeLDA/" target="_blank">Code</a>] <br>
 > Han Wu\*, <b>Chong Wang</b>\*, Lanzhuju Mei, Tong Yang, Min Zhu, Dingggang Shen, Zhiming Cui. (* indicates equal contribution)<br>
@@ -38,9 +38,9 @@ author_profile: true
 
 
 
-<!-- > <b><a href="https://arxiv.org/abs/2407.05358" target="_blank">CPM: Class-conditional Prompting Machine for Audio-visual Segmentation</a></b> <br>
+> <b><a href="https://arxiv.org/abs/2407.05358" target="_blank">CPM: Class-conditional Prompting Machine for Audio-visual Segmentation</a></b> <br>
 > Yuanhong Chen, <b>Chong Wang</b>, Yuyuan Liu, Hu Wang, Gustavo Carneiro.<br>
-> <em>European Conference on Computer Vision</em> (<i><b>ECCV</b></i>), 2024 <be> -->
+> <em>European Conference on Computer Vision</em> (<i><b>ECCV</b></i>), 2024 <be> 
 
 
 > <b><a href="https://www.sciencedirect.com/science/article/pii/S1361841524001178" target="_blank">BRAIxDet: Learning to Detect Malignant Breast Lesion with Incomplete Annotations</a></b> <br>
@@ -50,9 +50,9 @@ author_profile: true
 
 
 
-<!-- > <b><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Unraveling_Instance_Associations_A_Closer_Look_for_Audio-Visual_Segmentation_CVPR_2024_paper.pdf" target="_blank">Unraveling Instance Associations: A Closer Look for Audio-Visual Segmentation</a></b> <br>
+> <b><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Unraveling_Instance_Associations_A_Closer_Look_for_Audio-Visual_Segmentation_CVPR_2024_paper.pdf" target="_blank">Unraveling Instance Associations: A Closer Look for Audio-Visual Segmentation</a></b> <br>
 > Yuanhong Chen, Yuyuan Liu, Hu Wang, Fengbei Liu, <b>Chong Wang</b>, Helen Frazer, Gustavo Carneiro.<br>
-> <em>IEEE / CVF Computer Vision and Pattern Recognition Conference (<i><b>CVPR</b></i>)</em>, 2024 <be> -->
+> <em>IEEE / CVF Computer Vision and Pattern Recognition Conference (<i><b>CVPR</b></i>)</em>, 2024 <be> 
 
 
 
@@ -76,14 +76,14 @@ author_profile: true
 
 
 
-<!-- > > <b><a href="https://openaccess.thecvf.com/content/ICCV2023/html/Wang_Learning_Support_and_Trivial_Prototypes_for_Interpretable_Image_Classification_ICCV_2023_paper.html" target="_blank">Learning Support and Trivial Prototypes for Interpretable Image Classification</a></b> [<a href="https://github.com/cwangrun/ST-ProtoPNet" target="_blank">Code</a>] <br>
+> <b><a href="https://openaccess.thecvf.com/content/ICCV2023/html/Wang_Learning_Support_and_Trivial_Prototypes_for_Interpretable_Image_Classification_ICCV_2023_paper.html" target="_blank">Learning Support and Trivial Prototypes for Interpretable Image Classification</a></b> [<a href="https://github.com/cwangrun/ST-ProtoPNet" target="_blank">Code</a>] <br>
 > <b>Chong Wang</b>, Yuyuan Liu, Yuanhong Chen, Fengbei Liu, Yu Tian, Davis J McCarthy, Helen Frazer, Gustavo Carneiro. <br>
-> <em>IEEE/CVF International Conference on Computer Vision</em> (<i><b>ICCV</b></i>), 2023 <br> -->
+> <em>IEEE/CVF International Conference on Computer Vision</em> (<i><b>ICCV</b></i>), 2023 <br> 
 
 
-<!-- > > <b><a href="https://openaccess.thecvf.com/content/ICCV2023/html/Chen_BoMD_Bag_of_Multi-label_Descriptors_for_Noisy_Chest_X-ray_Classification_ICCV_2023_paper.html" target="_blank">BOMD: Bag of Multi-label Descriptors for Noisy Chest X-ray Classification</a></b> [<a href="https://github.com/cyh-0/BoMD" target="_blank">Code</a>] <br>
+> <b><a href="https://openaccess.thecvf.com/content/ICCV2023/html/Chen_BoMD_Bag_of_Multi-label_Descriptors_for_Noisy_Chest_X-ray_Classification_ICCV_2023_paper.html" target="_blank">BOMD: Bag of Multi-label Descriptors for Noisy Chest X-ray Classification</a></b> [<a href="https://github.com/cyh-0/BoMD" target="_blank">Code</a>] <br>
 > Yuanhong Chen, Fengbei Liu, Hu Wang, <b>Chong Wang</b>, Yuyuan Liu, Yu Tian, Gustavo Carneiro. <br>
-> <em>IEEE/CVF International Conference on Computer Vision</em> (<i><b>ICCV</b></i>), 2023 <br> -->
+> <em>IEEE/CVF International Conference on Computer Vision</em> (<i><b>ICCV</b></i>), 2023 <br> 
 
 
 > <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-45676-3_2" target="_blank">Unsupervised Anomaly Detection in Medical Images with a Memory-Augmented Multi-level Cross-Attentional Masked Autoencoder</a></b> <br>
