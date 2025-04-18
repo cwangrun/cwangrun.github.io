@@ -10,12 +10,12 @@ author_profile: true
 * [Oct 2024] Obtain my PhD degree with **Dean’s Commendation for Doctoral Thesis Excellence**!
 * [Sep 2024] One paper accepted by **IEEE TMI**.<br>
 * [Aug 2024] One paper accepted by **Nature Communications**.<br>
-<!-- * [Jul 2024] One paper accepted by **ECCV 2024**.<br> -->
+* [Jul 2024] One paper accepted by **ECCV 2024**.<br> 
 * [Jun 2024] One paper accepted by **MICCAI 2024**.<br>
 * [May 2024] One paper accepted by **MedIA**.<br>
-<!-- * [Feb 2024] One paper accepted by **CVPR 2024**.<br> -->
+* [Feb 2024] One paper accepted by **CVPR 2024**.<br> 
 * [Aug 2023] One paper accepted by **IEEE TMI**. Thanks to all co-authors! <br> 
-<!-- * [Jul 2023] Two papers accepted by **ICCV 2023**. Excited to explore Paris!<br> -->
+* [Jul 2023] Two papers accepted by **ICCV 2023**. Excited to explore Paris!<br> 
 * [Feb 2023] Happy to obtain **BRAIx Top-up Scholarship**.<br> 
 
 * [Dec 2022] One paper accepted by **Radiology: Artificial Intelligence**. <br>
