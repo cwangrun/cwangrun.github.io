@@ -15,11 +15,7 @@ author_profile: true
   * Biomedical Optics Express
   * Neurocomputing
 
-## *Conference Reviews*
-  * MICCAI 2024, NeurIPS 2024, BMVC 2024
-  * ICLR 2023, NeurIPS 2023
-  * BMVC 2023
-    
+## *Conference Reviews*   
   * CVPR 2024, ICML 2024, MICCAI 2024, NeurIPS 2024, BMVC 2024
   * ICCV 2023, ICLR 2023, NeurIPS 2023
   * BMVC 2023, ACCV 2022.
