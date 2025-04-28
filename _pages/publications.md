@@ -10,7 +10,7 @@ author_profile: true
 ## 2025
 
 
-> <b><a href="https://ieeexplore.ieee.org/document/10955117" target="_blank">Progressive Mining and Dynamic Distillation of Hierarchical Prototypes for Disease Classification and Localisation</a></b> <br>
+> <b><a href="https://ieeexplore.ieee.org/document/10955117" target="_blank">Progressive Mining and Dynamic Distillation of Hierarchical Prototypes for Disease Classification and Localisation</a></b> [<a href="https://github.com/cwangrun/HierProtoPNet" target="_blank">Code</a>] <br>
 > <b>Chong Wang</b>, Fengbei Liu, Yuanhong Chen, Chun Fung Kwok, Michael Elliott, Carlos Pena-Solorzano, Davis J McCarthy, Helen Frazer, Gustavo Carneiro. <br>
 > <em>IEEE Journal of Biomedical and Health Informatics</em> (<i><b>IEEE JBHI</b></i>), 2025 <be>
 
