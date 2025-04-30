@@ -18,8 +18,9 @@ author_profile: true
 > <b>Chong Wang</b>, Fengbei Liu, Yuanhong Chen, Helen Frazer, Gustavo Carneiro. <br>
 > <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2025 <be>
 
-
-
+> <b><a href="https://arxiv.org/abs/2312.00092" target="_blank">Mixture of Gaussian-distributed Prototypes with Generative Modelling for Interpretable and Trustworthy Image Recognition</a></b> <br>
+> <b>Chong Wang</b>, Yuanhong Chen, Fengbei Liu, Yuyuan Liu, Davis J McCarthy, Helen Frazer, Gustavo Carneiro.<br>
+> <em>Transactions on Pattern Analysis and Machine Intelligence</em>, 2024 <be>
 
 
 ## 2024
@@ -36,12 +37,9 @@ author_profile: true
 > Han Wu\*, <b>Chong Wang</b>\*, Lanzhuju Mei, Tong Yang, Min Zhu, Dingggang Shen, Zhiming Cui. (* indicates equal contribution)<br>
 > <em>International Conference on Medical Image Computing and Computer-Assisted Intervention</em> (<i><b>MICCAI</b></i>), 2024 <be>
 
-
-
 > <b><a href="https://arxiv.org/abs/2407.05358" target="_blank">CPM: Class-conditional Prompting Machine for Audio-visual Segmentation</a></b> <br>
 > Yuanhong Chen, <b>Chong Wang</b>, Yuyuan Liu, Hu Wang, Gustavo Carneiro.<br>
 > <em>European Conference on Computer Vision</em> (<i><b>ECCV</b></i>), 2024 <be> 
-
 
 > <b><a href="https://www.sciencedirect.com/science/article/pii/S1361841524001178" target="_blank">BRAIxDet: Learning to Detect Malignant Breast Lesion with Incomplete Annotations</a></b> <br>
 > Yuanhong Chen, Yuyuan Liu, <b>Chong Wang</b>, Michael Elliott, Chun Fung Kwok, Yu Tian, Fengbei Liu, Helen Frazer, Davis J McCarthy, Gustavo Carneiro.<br>
@@ -57,10 +55,6 @@ author_profile: true
 
 
 
-> <b><a href="https://arxiv.org/abs/2312.00092" target="_blank">Mixture of Gaussian-distributed Prototypes with Generative Modelling for Interpretable and Trustworthy Image Recognition</a></b> <br>
-> <b>Chong Wang</b>, Yuanhong Chen, Fengbei Liu, Yuyuan Liu, Davis J McCarthy, Helen Frazer, Gustavo Carneiro.<br>
-> <em>Arxiv</em>, 2024 <be>
-
 > <b><a href="https://arxiv.org/abs/2308.01184" target="_blank">Partial Label Supervision for Agnostic Generative Noisy Label Learning</a></b> <br>
 > Fengbei Liu, <b>Chong Wang</b>, Yuanhong Chen, Yuyuan Liu, Gustavo Carneiro.<br>
 > <em>Arxiv</em>, 2024 <be>
@@ -71,9 +65,6 @@ author_profile: true
 > <b><a href="https://ieeexplore.ieee.org/abstract/document/10225391" target="_blank">An Interpretable and Accurate Deep-learning Diagnosis Framework Modelled with Fully and Semi-supervised Reciprocal Learning</a></b> [<a href="https://github.com/sendyma/Medical-XAI" target="_blank">Code</a>] <br>
 > <b>Chong Wang</b>, Yuanhong Chen, Fengbei Liu, Michael Elliott, Chun Fung Kwok, Carlos Peña-Solorzano, Helen Frazer, Davis J McCarthy, Gustavo Carneiro.<br>
 > <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2023 <be>
-
-
-
 
 
 > <b><a href="https://openaccess.thecvf.com/content/ICCV2023/html/Wang_Learning_Support_and_Trivial_Prototypes_for_Interpretable_Image_Classification_ICCV_2023_paper.html" target="_blank">Learning Support and Trivial Prototypes for Interpretable Image Classification</a></b> [<a href="https://github.com/cwangrun/ST-ProtoPNet" target="_blank">Code</a>] <br>
