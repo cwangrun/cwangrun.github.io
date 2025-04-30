@@ -3,6 +3,7 @@ permalink: /news/
 title: "News"
 author_profile: true
 ---
+* [May 2025] One paper accepted by **IEEE TPAMI**.<br>
 * [Apr 2025] One paper accepted by **IEEE JBHI**.<br>
 * [Feb 2025] Receive **Doctoral Research Medal**! (only 15 awardees at AdeUni in 2024)
 * [Feb 2025] One paper accepted by **IEEE TMI**.<br>
