@@ -10,6 +10,10 @@ author_profile: true
 ## 2025
 
 
+> <b><a href="https://arxiv.org/abs/2312.00092" target="_blank">Mixture of Gaussian-distributed Prototypes with Generative Modelling for Interpretable and Trustworthy Image Recognition</a></b> <br>
+> <b>Chong Wang</b>, Yuanhong Chen, Fengbei Liu, Yuyuan Liu, Davis J McCarthy, Helen Frazer, Gustavo Carneiro.<br>
+> <em>IEEE Transactions on Pattern Analysis and Machine Intelligence</em> (<i><b>IEEE TPAMI</b></i>), 2025 <be>
+
 > <b><a href="https://ieeexplore.ieee.org/document/10955117" target="_blank">Progressive Mining and Dynamic Distillation of Hierarchical Prototypes for Disease Classification and Localisation</a></b> [<a href="https://github.com/cwangrun/HierProtoPNet" target="_blank">Code</a>] <br>
 > <b>Chong Wang</b>, Fengbei Liu, Yuanhong Chen, Chun Fung Kwok, Michael Elliott, Carlos Pena-Solorzano, Davis J McCarthy, Helen Frazer, Gustavo Carneiro. <br>
 > <em>IEEE Journal of Biomedical and Health Informatics</em> (<i><b>IEEE JBHI</b></i>), 2025 <be>
@@ -18,9 +22,7 @@ author_profile: true
 > <b>Chong Wang</b>, Fengbei Liu, Yuanhong Chen, Helen Frazer, Gustavo Carneiro. <br>
 > <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2025 <be>
 
-> <b><a href="https://arxiv.org/abs/2312.00092" target="_blank">Mixture of Gaussian-distributed Prototypes with Generative Modelling for Interpretable and Trustworthy Image Recognition</a></b> <br>
-> <b>Chong Wang</b>, Yuanhong Chen, Fengbei Liu, Yuyuan Liu, Davis J McCarthy, Helen Frazer, Gustavo Carneiro.<br>
-> <em>IEEE Transactions on Pattern Analysis and Machine Intelligence</em> (<i><b>IEEE TPAMI</b></i>), 2025 <be>
+
 
 
 ## 2024
