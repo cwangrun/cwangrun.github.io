@@ -10,7 +10,7 @@ author_profile: true
 ## 2025
 
 
-> <b><a href="https://arxiv.org/abs/2312.00092" target="_blank">Mixture of Gaussian-distributed Prototypes with Generative Modelling for Interpretable and Trustworthy Image Recognition</a></b> <br>
+> <b><a href="https://ieeexplore.ieee.org/document/10982376" target="_blank">Mixture of Gaussian-distributed Prototypes with Generative Modelling for Interpretable and Trustworthy Image Recognition</a></b> <br>
 > <b>Chong Wang</b>, Yuanhong Chen, Fengbei Liu, Yuyuan Liu, Davis J McCarthy, Helen Frazer, Gustavo Carneiro.<br>
 > <em>IEEE Transactions on Pattern Analysis and Machine Intelligence</em> (<i><b>IEEE TPAMI</b></i>), 2025 <be>
 
