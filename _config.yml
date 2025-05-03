@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Chong Wang"
   avatar           : "profile1.jpg"
-  bio              : "PhD, Australian Institute for Machine Learning (AIML), The University of Adelaide. Email: chong.wang@adelaide.edu.au"
-  location         : "Adelaide, SA, Australia"
+  bio              : "Postdoctoral Scholar at Stanford University; PhD from The University of Adelaide. Email: chongwa@stanford.edu"
+  location         : "Palo Alto, CA, U.S."
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  email            : "chong.wang@adelaide.edu.au"
+  email            : "chongwa@stanford.edu"
   github           : "cwangrun"
   researchgate     : "https://www.researchgate.net/profile/Chong-Wang-25"
   uri              :
