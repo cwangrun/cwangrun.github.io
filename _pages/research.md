@@ -14,7 +14,7 @@ author_profile: true
 > Mixture of Gaussian-distributed prototypes with generative modelling.
 >![Words](./image/MGProto.png)
 
-> Deep model interpretability with support and trivial prototypes.
+> Deep-learning interpretability with support and trivial prototypes.
 >![Words](./image/STProtoPNet.png)
 
 
