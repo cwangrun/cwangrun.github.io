@@ -23,10 +23,10 @@ author_profile: true
 >![Words](./image/InterNRL.png)
 
 
-> Segmentation of 3D bowel structure with full and partial supervision.
+> Segmentation of 3D bowel system with full and partial supervision.
 >![Words](./image/BowelNet.png)
 
 
-> Diagnosis of retinal diseases with lesion-related domain knowledge. 
+> Diagnosis of retinal diseases driven by lesion-related domain knowledge. 
 ![Words](./image/LACNN.png)
 
