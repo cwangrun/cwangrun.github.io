@@ -5,7 +5,7 @@ author_profile: true
 ---
 * [Apr 2025] One paper accepted by **IEEE TPAMI**.<br>
 * [Apr 2025] One paper accepted by **IEEE JBHI**.<br>
-* [Feb 2025] Receive **Doctoral Research Medal**! (only 15 awardees at AdeUni in 2024)
+* [Feb 2025] Receive **Doctoral Research Medal** (only 15 awardees at AdeUni in 2024)!
 * [Feb 2025] One paper accepted by **IEEE TMI**.<br>
 
 * [Oct 2024] Obtain my PhD degree with **Dean’s Commendation for Doctoral Thesis Excellence**!
