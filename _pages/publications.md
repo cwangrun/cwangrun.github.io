@@ -9,6 +9,9 @@ author_profile: true
 
 ## 2025
 
+> <b><a href="https://arxiv.org/abs/2507.21440" target="_blank">Dual Cross-image Semantic Consistency with Self-aware Pseudo Labeling for Semi-supervised Medical Image Segmentation</a></b> [<a href="https://github.com/ShanghaiTech-IMPACT/DuCiSC" target="_blank">Code</a>] <br>
+>  Han Wu\*, <b>Chong Wang</b>\*, Zhiming Cui. (* indicates equal contribution)<br>
+> <em>IEEE Transactions on Medical Imaging</em> (<i><b>IEEE TMI</b></i>), 2025 <be>
 
 > <b><a href="https://ieeexplore.ieee.org/document/10982376" target="_blank">Mixture of Gaussian-distributed Prototypes with Generative Modelling for Interpretable and Trustworthy Image Recognition</a></b> [<a href="https://github.com/cwangrun/MGProto" target="_blank">Code</a>] <br>
 > <b>Chong Wang</b>, Yuanhong Chen, Fengbei Liu, Yuyuan Liu, Davis J McCarthy, Helen Frazer, Gustavo Carneiro.<br>
