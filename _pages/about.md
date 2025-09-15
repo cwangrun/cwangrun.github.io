@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Postdoctoral Scholar in the Department of Radiology at Stanford University School of Medicine.
+I am currently a Postdoctoral Scholar in the Department of Radiology at Stanford University.
 
 * I earned Ph.D degree in Australian Institute for Machine Learning (AIML), The University of Adelaide, supervised by Prof. <a href="https://www.surrey.ac.uk/people/gustavo-carneiro" target="_blank">Gustavo Carneiro</a> and Prof. <a href="https://www.linkedin.com/in/helen-frazer-027a331a6/?originalSubdomain=au" target="_blank">Helen Frazer</a>, working on the <a href="https://www.svi.edu.au/research/collaborative-programs/braix/" target="_blank">Transforming Breast Cancer Screening with Artificial Intelligence (BRAIx) Project</a>.
 * I obtained M. Eng. degree in College of Electrical and Information Engineering at Hunan University in 2020, advised by Prof. <a href="https://sites.google.com/site/leyuanfang/" target="_blank">Leyuan Fang</a>.
