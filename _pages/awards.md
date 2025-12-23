@@ -3,7 +3,7 @@ permalink: /awards/
 title: "Awards"
 author_profile: true
 ---
-* HAI-Google Cloud Credits Grant Program, 2025
+* Stanford HAI-Google Cloud Credits Grant Program, 2025
 * Doctoral Research Medal (1 of 15 Awardees), The University of Adelaide, 2024
 * Dean’s Commendation for Doctoral Thesis Excellence, The University of Adelaide, 2024
 * BRAIx Top-up PhD Scholarship, 2023 
