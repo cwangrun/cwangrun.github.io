@@ -6,6 +6,7 @@ author_profile: true
 
 * [Mar 2026] One paper accepted by **The Lancet Digital Health**.<br> 
 * [Feb 2026] Two paper accepted by **CVPR 2026**.<br>
+
 * [Aug 2025] One paper accepted by **IEEE TMI**.<br>
 * [Apr 2025] One paper accepted by **IEEE TPAMI**.<br>
 * [Apr 2025] One paper accepted by **IEEE JBHI**.<br>
@@ -18,7 +19,8 @@ author_profile: true
 * [Jul 2024] One paper accepted by **ECCV 2024**.<br> 
 * [Jun 2024] One paper accepted by **MICCAI 2024**.<br>
 * [May 2024] One paper accepted by **MedIA**.<br>
-* [Feb 2024] One paper accepted by **CVPR 2024**.<br> 
+* [Feb 2024] One paper accepted by **CVPR 2024**.<br>
+
 * [Aug 2023] One paper accepted by **IEEE TMI**. Thanks to all co-authors! <br> 
 * [Jul 2023] Two papers accepted by **ICCV 2023**. Excited to explore Paris!<br> 
 * [Feb 2023] Happy to obtain **BRAIx Top-up Scholarship**.<br> 
