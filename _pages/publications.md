@@ -11,7 +11,7 @@ author_profile: true
 
 
 
-> <b><a href="https://arxiv.org/abs/2308.01184" target="_blank">Bridging Generative and Discriminative Noisy-Label Learning via Direction-Agnostic EM Formulation</a></b> <br>
+> <b><a href="https://arxiv.org/abs/2308.01184" target="_blank">Bridging Generative and Discriminative Noisy-Label Learning via Direction-Agnostic EM Formulation</a></b> [<a href="https://github.com/lfb-1/GNL" target="_blank">Code</a>] <br>
 > Fengbei Liu, <b>Chong Wang</b>, Yuanhong Chen, Yuyuan Liu, Gustavo Carneiro.<br>
 > <em>IEEE Transactions on Pattern Analysis and Machine Intelligence</em> (<i><b>IEEE TPAMI</b></i>), 2026 <be>
 
@@ -108,7 +108,7 @@ author_profile: true
 > Yuanhong Chen, Hu Wang, <b>Chong Wang</b>, Yu Tian, Fengbei Liu, Yuyuan Liu, Michael Elliott, Davis J McCarthy, Helen Frazer, Gustavo Carneiro.<br>
 > <em>International Conference on Medical Image Computing and Computer-Assisted Intervention</em> (<i><b>MICCAI</b></i>), 2022 <br>
 
-> <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-16437-8_9" target="_blank">Contrastive Transformer-Based Multiple Instance Learning for Weakly Supervised Polyp Frame Detection</a></b> <br>
+> <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-16437-8_9" target="_blank">Contrastive Transformer-Based Multiple Instance Learning for Weakly Supervised Polyp Frame Detection</a></b> [<a href="https://github.com/tianyu0207/weakly-polyp" target="_blank">Code</a>] <br>
 > Yu Tian, Guansong Pang, Fengbei Liu, Yuyuan Liu, <b>Chong Wang</b>, Yuanhong Chen, Johan Verjans, Gustavo Carneiro.<br>
 > <em>International Conference on Medical Image Computing and Computer-Assisted Intervention</em> (<i><b>MICCAI</b></i>), 2022 <br>
 
