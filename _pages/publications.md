@@ -7,6 +7,15 @@ author_profile: true
 
 <!-- title: "Selected Publications" --> 
 
+## 2026
+
+
+
+> <b><a href="https://arxiv.org/abs/2308.01184" target="_blank">Bridging Generative and Discriminative Noisy-Label Learning via Direction-Agnostic EM Formulation</a></b> <br>
+> Fengbei Liu, <b>Chong Wang</b>, Yuanhong Chen, Yuyuan Liu, Gustavo Carneiro.<br>
+> <em>IEEE Transactions on Pattern Analysis and Machine Intelligence</em> (<i><b>IEEE TPAMI</b></i>), 2026 <be>
+
+
 ## 2025
 
 > <b><a href="https://ieeexplore.ieee.org/document/11104231" target="_blank">Dual Cross-image Semantic Consistency with Self-aware Pseudo Labeling for Semi-supervised Medical Image Segmentation</a></b> [<a href="https://github.com/ShanghaiTech-IMPACT/DuCiSC" target="_blank">Code</a>] <br>
@@ -27,7 +36,6 @@ author_profile: true
 
 
 
-
 ## 2024
 
 > <b><a href="https://ieeexplore.ieee.org/document/10695462" target="_blank">Translation Consistent Semi-supervised Segmentation for 3D Medical Images</a></b> [<a href="https://github.com/yyliu01/TraCoCo" target="_blank">Code</a>] <br>
@@ -38,19 +46,17 @@ author_profile: true
 > Helen Frazer, Carlos Pena-Solorzano, Chun Fung Kwok, Michael Elliott, Yuanhong Chen, <b>Chong Wang</b>, Jocelyn Lippey, John Hopper, Peter Brotchie, Gustavo Carneiro, Davis J McCarthy, BRAIx Team. <br>
 > <em>Nature Communications</em> (<i><b>Nat. Commun.</b></i>), 2024 <br> 
 
-> <b><a href="https://arxiv.org/abs/2406.12577" target="_blank">Cephalometric Landmark Detection across Ages with Prototypical Network</a></b> [<a href="https://shanghaitech-impact.github.io/CeLDA/" target="_blank">Code</a>] <br>
+> <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-72086-4_15" target="_blank">Cephalometric Landmark Detection across Ages with Prototypical Network</a></b> [<a href="https://shanghaitech-impact.github.io/CeLDA/" target="_blank">Code</a>] <br>
 > Han Wu\*, <b>Chong Wang</b>\*, Lanzhuju Mei, Tong Yang, Min Zhu, Dingggang Shen, Zhiming Cui. (* indicates equal contribution)<br>
 > <em>International Conference on Medical Image Computing and Computer-Assisted Intervention</em> (<i><b>MICCAI</b></i>), 2024 <be>
 
-> <b><a href="https://arxiv.org/abs/2407.05358" target="_blank">CPM: Class-conditional Prompting Machine for Audio-visual Segmentation</a></b> <br>
+> <b><a href="https://link.springer.com/chapter/10.1007/978-3-031-72684-2_25" target="_blank">CPM: Class-conditional Prompting Machine for Audio-visual Segmentation</a></b> <br>
 > Yuanhong Chen, <b>Chong Wang</b>, Yuyuan Liu, Hu Wang, Gustavo Carneiro.<br>
 > <em>European Conference on Computer Vision</em> (<i><b>ECCV</b></i>), 2024 <be> 
 
 > <b><a href="https://www.sciencedirect.com/science/article/pii/S1361841524001178" target="_blank">BRAIxDet: Learning to Detect Malignant Breast Lesion with Incomplete Annotations</a></b> <br>
 > Yuanhong Chen, Yuyuan Liu, <b>Chong Wang</b>, Michael Elliott, Chun Fung Kwok, Yu Tian, Fengbei Liu, Helen Frazer, Davis J McCarthy, Gustavo Carneiro.<br>
 > <em>Medical Image Analysis</em> (<i><b>MedIA</b></i>), 2024 <be>
-
-
 
 
 > <b><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Unraveling_Instance_Associations_A_Closer_Look_for_Audio-Visual_Segmentation_CVPR_2024_paper.pdf" target="_blank">Unraveling Instance Associations: A Closer Look for Audio-Visual Segmentation</a></b> <br>
@@ -60,9 +66,6 @@ author_profile: true
 
 
 
-> <b><a href="https://arxiv.org/abs/2308.01184" target="_blank">Partial Label Supervision for Agnostic Generative Noisy Label Learning</a></b> <br>
-> Fengbei Liu, <b>Chong Wang</b>, Yuanhong Chen, Yuyuan Liu, Gustavo Carneiro.<br>
-> <em>Arxiv</em>, 2024 <be>
 
 
 ## 2023
