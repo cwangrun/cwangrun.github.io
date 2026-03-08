@@ -4,6 +4,7 @@ title: "News"
 author_profile: true
 ---
 
+* [Mar 2026] One paper accepted by **IEEE TPAMI**.<br> 
 * [Mar 2026] One paper accepted by **The Lancet Digital Health**.<br> 
 * [Feb 2026] Two paper accepted by **CVPR 2026**.<br>
 
