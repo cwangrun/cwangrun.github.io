@@ -12,7 +12,7 @@ author_profile: true
 
 
 > <b><a href="https://arxiv.org/abs/2308.01184" target="_blank">Bridging Generative and Discriminative Noisy-Label Learning via Direction-Agnostic EM Formulation</a></b> [<a href="https://github.com/lfb-1/GNL" target="_blank">Code</a>] <br>
-> Fengbei Liu, <b>Chong Wang</b>, Yuanhong Chen, Yuyuan Liu, Gustavo Carneiro.<br>
+> Fengbei Liu\*, <b>Chong Wang</b>\*, Yuanhong Chen, Yuyuan Liu, Gustavo Carneiro.<br>
 > <em>IEEE Transactions on Pattern Analysis and Machine Intelligence</em> (<i><b>IEEE TPAMI</b></i>), 2026 <be>
 
 
