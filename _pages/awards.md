@@ -4,7 +4,7 @@ title: "Awards"
 author_profile: true
 ---
 * Stanford HAI-Google Cloud Grant Program, 2025
-* Doctoral Research Medal (1 of 15 Awardees), The University of Adelaide, 2024
+* Doctoral Research Medal (1 of 10 Awardees), The University of Adelaide, 2024
 * Dean’s Commendation for Doctoral Thesis Excellence, The University of Adelaide, 2024
 * BRAIx Top-up PhD Scholarship, 2023 
 * <a href="https://conferences.miccai.org/2022/en/MICCAI-2022-STUDENT-TRAVEL-AWARDS.html" target="_blank"> MICCAI 2022 Student Travel Awards</a>, 2022 
