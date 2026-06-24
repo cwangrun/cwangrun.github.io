@@ -7,9 +7,9 @@ author_profile: true
 
 ## *Journal Reviews*
   * IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
-  * IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
   * IEEE Transactions on Image Processing (IEEE TIP)
   * IEEE Transactions on Medical Imaging (IEEE TMI)
+  * IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
   * IEEE Journal of Biomedical and Health Informatics (IEEE JBHI)
   * IEEE Signal Processing Letters (IEEE SPL)
   * Biomedical Optics Express
